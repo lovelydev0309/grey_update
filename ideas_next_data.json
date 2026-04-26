@@ -1,0 +1,2737 @@
+{
+  "props": {
+    "pageProps": {
+      "preview": false,
+      "modelKey": "page",
+      "data": {
+        "page": {
+          "__typename": "Page",
+          "sys": {
+            "id": "4fF8iTW1sqwC74NdVvhvad"
+          },
+          "tagClient": null,
+          "tagCategory": null,
+          "tagLocation": null,
+          "hero": null,
+          "podcastData": null,
+          "relatedPagesCollection": {
+            "items": []
+          },
+          "pageLogo": null,
+          "slug": "ideas",
+          "title": "Ideas",
+          "headline": "Made by Grey",
+          "description": null,
+          "pageType": "Generic",
+          "metaData": {
+            "__typename": "MetaData",
+            "sys": {
+              "id": "5pF5sBoSg4t5KUrBqd7clS"
+            },
+            "ogImage": null,
+            "twitterImage": null,
+            "browserTitle": "Work & Ideas | Grey | Advertising Agency | Famously Effective since 1917",
+            "pageDescription": "Grey Global has worked on some of the greatest campaigns for many of our premium brands. Get a glimpse of all famously effective work from Grey Global.",
+            "ogTitle": null,
+            "ogDescription": null,
+            "twitterTitle": null,
+            "twitterDescription": null,
+            "robotsNoIndex": null,
+            "robotsNoFollow": null,
+            "changeFrequency": null,
+            "priority": null,
+            "googleVerification": null
+          },
+          "consysCollection": {
+            "total": 52,
+            "items": [
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "6AaxM9wZEp2Zfo99GzjD86"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Bobby Lobby",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Satirizing the Reality of Awards Season to Prove It's the Work that Matters",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "AWXYUeUl3YFjDJ9jOoaiN"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 3840,
+                      "height": 2160,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/AWXYUeUl3YFjDJ9jOoaiN/a808db39d6e5959b719bacefa6c59020/16X9_KV_VS1.jpg",
+                      "title": "Bobby Lobby - main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "6BNd4cymUu2d1nqbLUPEjL"
+                  },
+                  "tagLocation": null,
+                  "slug": "bobby-lobby",
+                  "title": "Bobby Lobby",
+                  "pageType": "Ideas",
+                  "description": "Integrity is great. But have you tried winning?",
+                  "headline": "Stuck on the Shortlist? Call Bobby. 570-GET-GOLD",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "AWXYUeUl3YFjDJ9jOoaiN"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/AWXYUeUl3YFjDJ9jOoaiN/a808db39d6e5959b719bacefa6c59020/16X9_KV_VS1.jpg",
+                    "title": "Bobby Lobby - main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "nyfa",
+                    "title": "New York Festivals",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/bobby-lobby"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "5lCqHhyNKWn6jr0zkOoesI"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Happy Christmasscre",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Bloodbath Beneath the Surface of our Festive Traditions",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "3TZAFkK8QZh861IJUhgI3N"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 2980,
+                      "height": 1234,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/3TZAFkK8QZh861IJUhgI3N/db989318ecfed5af20aa479a280c54d6/Video_Still_-1.jpg",
+                      "title": "Happy Christmassacre - image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "2NYdHrJLlfDq25dlu6yzwC"
+                  },
+                  "tagLocation": null,
+                  "slug": "happy-christmassacre",
+                  "title": "Happy Christmassacre",
+                  "pageType": "Ideas",
+                  "description": "Forget the jingles and tinsel. Happy Christmassacre rips open the glossy wrapping on Christmas dinner to reveal the grim reality behind people’s festive traditions. ",
+                  "headline": "PETA and Grey London Reveal the Bloodbath Beneath the Surface of our Festive Traditions",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "3TZAFkK8QZh861IJUhgI3N"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 2980,
+                    "height": 1234,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/3TZAFkK8QZh861IJUhgI3N/db989318ecfed5af20aa479a280c54d6/Video_Still_-1.jpg",
+                    "title": "Happy Christmassacre - image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "peta",
+                    "title": "PETA",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/happy-christmassacre"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "9cjb7TRcovwQCsy16Yg7Z"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Volvo: In Every Vehicle ",
+                "subTitle": null,
+                "caption": null,
+                "headline": "The Invention That Changed Cars Forever ",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1DStNpmg8Yla2TdDZOlumL"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 4000,
+                      "height": 2000,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/1DStNpmg8Yla2TdDZOlumL/8b186c095766f4a45918d3a1548fdf32/Volvo_Print_70s.jpg",
+                      "title": "Volvo: In Every Vehicle - main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "5P125bxEM6HYlpApme7wW2"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-3-point-safety-belt",
+                  "title": "The 3-Point Safety Belt",
+                  "pageType": "Ideas",
+                  "description": null,
+                  "headline": "Volvo In Every Vehicle",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "1DStNpmg8Yla2TdDZOlumL"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 4000,
+                    "height": 2000,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/1DStNpmg8Yla2TdDZOlumL/8b186c095766f4a45918d3a1548fdf32/Volvo_Print_70s.jpg",
+                    "title": "Volvo: In Every Vehicle - main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "volvo",
+                    "title": "Volvo",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/the-3-point-safety-belt"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "6tB8fUZTeCEkFqf5DYI42W"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Sun Reserve",
+                "subTitle": null,
+                "caption": null,
+                "headline": "The World’s 1st Sun Reserve",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "7vYfQ0mjwMv2KRzOTqE4QB"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 1920,
+                      "height": 1080,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/7vYfQ0mjwMv2KRzOTqE4QB/fe645fa0262cd7b4cdd35f83053db856/1.jpg",
+                      "title": "Sun Reserve - main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "3MhjeLDJ7NYcLw8E6KPXZ"
+                  },
+                  "tagLocation": null,
+                  "slug": "sun-reserve",
+                  "title": "Sun Reserve",
+                  "pageType": "Ideas",
+                  "description": "A new preservation concept.",
+                  "headline": "The World’s 1st Sun Reserve",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "7vYfQ0mjwMv2KRzOTqE4QB"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/7vYfQ0mjwMv2KRzOTqE4QB/fe645fa0262cd7b4cdd35f83053db856/1.jpg",
+                    "title": "Sun Reserve - main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "ab-inbev-corona",
+                    "title": "AB InBev: Corona",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/sun-reserve"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "1WAbiDCdmmcXr7Hd3wasn7"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Shooting ",
+                "subTitle": null,
+                "caption": null,
+                "headline": "We Shoot For the Truth. They Shoot to Silence Us.",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "QsvokoeFnWCA2IvH9KmbW"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 2880,
+                      "height": 1246,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/QsvokoeFnWCA2IvH9KmbW/cd7c83aace6c4bbbcd1adb4440ac75b8/THE_SHOOTING_grey_2880x1246.jpg",
+                      "title": "The shooting - hero image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "6jNeVoXnXIiaNEG58GtqSY"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-shooting",
+                  "title": "The Shooting",
+                  "pageType": "Ideas",
+                  "description": "We shoot for the truth. They shoot to silence us. ",
+                  "headline": "We Shoot For the Truth. They Shoot to Silence Us.",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "QsvokoeFnWCA2IvH9KmbW"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 2880,
+                    "height": 1246,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/QsvokoeFnWCA2IvH9KmbW/cd7c83aace6c4bbbcd1adb4440ac75b8/THE_SHOOTING_grey_2880x1246.jpg",
+                    "title": "The shooting - hero image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "newspaper-la-union-and-article-19",
+                    "title": "Newspaper La Unión and Article 19",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/the-shooting"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "7xWDH0tFGgVwU0mQfMdIcD"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "EstibADores",
+                "subTitle": null,
+                "caption": null,
+                "headline": "The Cart That Pays: Turning Work Tools into Financial Inclusion.",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "A99zL0tVd5zig0j2y6fn3"
+                      },
+                      "contentType": "image/png",
+                      "width": 1246,
+                      "height": 996,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/A99zL0tVd5zig0j2y6fn3/2f4c59a3c3c2ea769f5b0e75e9b265b7/6.png",
+                      "title": "EstibADores - main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "1NnVSHa4LCkgkMqgMVF5WI"
+                  },
+                  "tagLocation": null,
+                  "slug": "estibadores",
+                  "title": "EstibADores",
+                  "pageType": "Ideas",
+                  "description": "Peru's estibadores now earn income by renting ad space on their essential work carts. ",
+                  "headline": "The Cart That Pays: Turning Work Tools into Financial Inclusion. ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "A99zL0tVd5zig0j2y6fn3"
+                    },
+                    "contentType": "image/png",
+                    "width": 1246,
+                    "height": 996,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/A99zL0tVd5zig0j2y6fn3/2f4c59a3c3c2ea769f5b0e75e9b265b7/6.png",
+                    "title": "EstibADores - main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "mibanco",
+                    "title": "Mibanco",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/estibadores"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "7oFDFGW4uWCy8M8qGpDluY"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "envy™ my bag ",
+                "subTitle": null,
+                "caption": null,
+                "headline": "envy™ Apple Redefines Luxury at Milan Fashion Week ",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "4aEx92Hl30BwtPhb9oFT2Q"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 6616,
+                      "height": 3722,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/4aEx92Hl30BwtPhb9oFT2Q/3116c1882d39477bc99a77fa93fec0a6/envy_my_bag.jpg",
+                      "title": "envy™ my bag - main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "4FGLD7afgHdkQn55XYdB0O"
+                  },
+                  "tagLocation": null,
+                  "slug": "envy-tm-my-bag",
+                  "title": "envy™ my bag ",
+                  "pageType": "Ideas",
+                  "description": "The ultimate fruit of fashion.",
+                  "headline": "envy™ Apple Redefines Luxury at Milan Fashion Week ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "4aEx92Hl30BwtPhb9oFT2Q"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 6616,
+                    "height": 3722,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/4aEx92Hl30BwtPhb9oFT2Q/3116c1882d39477bc99a77fa93fec0a6/envy_my_bag.jpg",
+                    "title": "envy™ my bag - main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "vog-vip",
+                    "title": "VOG-VIP",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "locations/italy/envy-tm-my-bag"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "11BVg2q5IGRHG5LdG4CgUZ"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "We All Understand Coca-Cola",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Using Design to Showcase a Brand Icon ",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2w1vO8PoTsxRqAMuPmmQvZ"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 6000,
+                      "height": 3376,
+                      "url": "https://downloads.ctfassets.net/faxemkcsc5vu/2w1vO8PoTsxRqAMuPmmQvZ/89ad0a567e4fcdd9a49d24cd94edcf26/CocaCola_Spanish-Dhivehi2.jpg",
+                      "title": "We All Understand Coca-Cola - hero image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "2Z8L6NR3n9brGqM0jN3acN"
+                  },
+                  "image": null,
+                  "tagLocation": null,
+                  "slug": "we-all-understand-coca-cola",
+                  "title": "We All Understand Coca-Cola",
+                  "pageType": "Ideas",
+                  "description": "Stories of cross-cultural connections, made simply by sharing a Coke. ",
+                  "headline": "Using Design to Showcase a Brand Icon ",
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "coca-cola",
+                    "title": "Coca-Cola",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/we-all-understand-coca-cola"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "50bO30pA6s9Ant1Y6HHRlw"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Infinite Sunset ",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Infinite Sunset: Global Livestream Redefines 'Anytime' for Corona Cero",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2BBFWTdwPQZvvCfYqjuL3t"
+                      },
+                      "contentType": "image/png",
+                      "width": 1920,
+                      "height": 1080,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/2BBFWTdwPQZvvCfYqjuL3t/2804d9f47c9c1978e77ace1da941097b/Hero_Infinite_PNG.png",
+                      "title": "Sun Reserve -main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "4siu6B0JCreN7b4uZg2M7T"
+                  },
+                  "tagLocation": null,
+                  "slug": "infinite-sunset",
+                  "title": "Infinite Sunset",
+                  "pageType": "Ideas",
+                  "description": "Leveraging 250+ Cameras Across 55 Countries to Turn Every Moment into Sunset Time. ",
+                  "headline": "Infinite Sunset: Global Livestream Redefines 'Anytime' for Corona Cero ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "1HBAnMW6IkXrJg1jWhARr3"
+                    },
+                    "contentType": "image/png",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/1HBAnMW6IkXrJg1jWhARr3/e9f050c85245162748766ecade245951/Hero_Infinite_PNG.png",
+                    "title": "Infinite Sunset -main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "ab-inbev-corona-cero",
+                    "title": "AB InBev: Corona Cero",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/infinite-sunset"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "HoKDxIiVhbMGqgroRxFa5"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "SAD KAMA-CHAN",
+                "subTitle": null,
+                "caption": null,
+                "headline": "ONE BOLD FLIP. ONE BIG TURNAROUND.",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1zuOJnLL6ERyEiX1J8ofKV"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/1zuOJnLL6ERyEiX1J8ofKV/a508234454b794fe0a7bee646b1f2d38/SADKAMA-CHAN02-ezgif.com-gif-to-mp4-converter.mp4",
+                      "title": "SAD KAMA-CHAN - main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "6nkX28ourFWppIPnNAKyRj"
+                  },
+                  "tagLocation": null,
+                  "slug": "sad-kama-chan",
+                  "title": "SAD KAMA-CHAN",
+                  "pageType": "Ideas",
+                  "description": "Bar BQ Plaza shakes up sales with a bold flip of the iconic fish ball smile. ",
+                  "headline": "ONE BOLD FLIP. ONE BIG TURNAROUND. ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "2u7nvBdCaMygED9VLdlS6Z"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 2880,
+                    "height": 1246,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/2u7nvBdCaMygED9VLdlS6Z/2390bd5818e5f574dfb4a1156ce5e92d/Website_2880_x_1246.jpg",
+                    "title": "Sad Kama-chan - Image1"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "food-passion-co-ltd",
+                    "title": "Food Passion Co., Ltd. ",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/sad-kama-chan"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "31cP1xFmMbcV5HZhPtCmjq"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Claustrobars",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Claustrobars: Worth Navigating the Crowd",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "FvhMfhgM6sHVyp0xywYYX"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 4724,
+                      "height": 2362,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/FvhMfhgM6sHVyp0xywYYX/200497de2e070e9cce9f7cce880192c8/Worth_it_1.jpg",
+                      "title": "Claustrobars - hero"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "6qupf3DGVNywKjSMkoxwCt"
+                  },
+                  "tagLocation": null,
+                  "slug": "claustrobars",
+                  "title": "Claustrobars",
+                  "pageType": "Ideas",
+                  "description": "A humorous out-of-home campaign celebrating the reward of a perfectly poured Stella Artois, even in the most crowded bars. ",
+                  "headline": "Claustrobars: Worth Navigating the Crowd",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "FvhMfhgM6sHVyp0xywYYX"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 4724,
+                    "height": 2362,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/FvhMfhgM6sHVyp0xywYYX/200497de2e070e9cce9f7cce880192c8/Worth_it_1.jpg",
+                    "title": "Claustrobars - hero"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "ab-inbev-stella-artois",
+                    "title": "AB InBev: Stella Artois",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/claustrobars"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "7scnc5McC2XVv2YOHtRBza"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Potty-tunities",
+                "subTitle": null,
+                "caption": null,
+                "headline": "A Super Bowl Spot That’s Designed To Be Missed ",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "5inEu938ar5A6AsOye5naf"
+                      },
+                      "contentType": "image/png",
+                      "width": 1920,
+                      "height": 1080,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/5inEu938ar5A6AsOye5naf/f4bb7e94a3b6788d0009e9f8e4a84576/AngelSoft_KV_Potty-tunity.png",
+                      "title": "Potty-tunities -main image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "223ezsWlLhOOLa84C94lBF"
+                  },
+                  "tagLocation": null,
+                  "slug": "potty-tunities",
+                  "title": "Potty-tunities",
+                  "pageType": "Ideas",
+                  "description": "Giving People Perfectly-Timed Bathroom Breaks During Unmissable Live Events. ",
+                  "headline": "A Super Bowl Spot Designed To Be Missed ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "5inEu938ar5A6AsOye5naf"
+                    },
+                    "contentType": "image/png",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/5inEu938ar5A6AsOye5naf/f4bb7e94a3b6788d0009e9f8e4a84576/AngelSoft_KV_Potty-tunity.png",
+                    "title": "Potty-tunities -main image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "georgia-pacific-angel-soft",
+                    "title": "Georgia Pacific: Angel Soft",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/potty-tunities"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "48QAIBAXa05sE5NLnHfYb2"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Applebee's is Serving NFL",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Applebee’s Just Became the NFL’s 33rd Franchise",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "43DLB93ZLBR2qeiVmXCunK"
+                      },
+                      "contentType": "image/png",
+                      "width": 1920,
+                      "height": 1080,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/43DLB93ZLBR2qeiVmXCunK/21209b7632592761ed621e2c6473bf98/AB_PRE_SEASONING_HERO_IMAGE.png",
+                      "title": "Applebee's is Serving NFL"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "2gO1jhhKfOB67ff6z3XzH1"
+                  },
+                  "tagLocation": null,
+                  "slug": "applebees-just-became-the-nfls-33rd-franchise",
+                  "title": "Applebee's is Serving NFL",
+                  "pageType": "Ideas",
+                  "description": "Welcome to Pre-Seasoning: An Applebee’s Training Camp",
+                  "headline": "Applebee’s Just Became the NFL’s 33rd Franchise",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "56pDO9Qt6lyWSEfzdL6HUM"
+                    },
+                    "contentType": "image/png",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/56pDO9Qt6lyWSEfzdL6HUM/ec93f35a4713d8af8d408ec28477c681/AB_PRE_SEASONING_MAIN_BOARD_01.png",
+                    "title": "Applebee’s is Serving NFL"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "applebees",
+                    "title": "Applebee's",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/applebees-just-became-the-nfls-33rd-franchise"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "1FyFfYkDrWQZRxP2fKEzlV"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "For Every Golden Moment",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Corona Cero Inspires Everyone to Discover Golden Moments",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2wzNTiknYANNMPXf7TSFsh"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 4320,
+                      "height": 2160,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/2wzNTiknYANNMPXf7TSFsh/9bbd1302bb1564252fbf63f805b8b3b0/For_every_moment_hero_image.jpg",
+                      "title": "CHEERSHORIZONTALOLYMPICS (1)"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "kSE39gCN7AG50Zy6ZCk7v"
+                  },
+                  "tagLocation": null,
+                  "slug": "for-every-golden-moment",
+                  "title": "For Every Golden Moment",
+                  "pageType": "Ideas",
+                  "description": "Olympic Golden Moments Inspire World to Embrace Their Own",
+                  "headline": "Corona Cero Inspires Everyone to Discover Golden Moments",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "2X5sQGiKAk4EeUpECzpYMc"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 4320,
+                    "height": 2160,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/2X5sQGiKAk4EeUpECzpYMc/e6f2af5ee6d49be106bf955939e5e783/For_every_moment_hero_image.jpg",
+                    "title": "For every golden moment hero image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "ab-inbev-corona-cero",
+                    "title": "AB InBev: Corona Cero",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/for-every-golden-moment"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "3w1p5VDGvkmQYDWNlkZzS4"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "A Breakthrough in Inclusive Design",
+                "subTitle": "Cemento Sol Turns Sidewalks into Sightwalks",
+                "caption": null,
+                "headline": "Cemento Sol Turns Sidewalks into Sightwalks",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2JkPX0nU5Sfob8zx0KRiDr"
+                      },
+                      "contentType": "image/png",
+                      "width": 2880,
+                      "height": 1246,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/2JkPX0nU5Sfob8zx0KRiDr/fe30d4a25ec40ad2b6dde6e5748a4f9b/2880-x-1246-d.png",
+                      "title": "2880-x-1246-Sightwalks"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "oSijI0f7kJSFgoTtj5tMZ"
+                  },
+                  "tagLocation": null,
+                  "slug": "a-breakthrough-in-inclusive-design",
+                  "title": "A Breakthrough in Inclusive Design",
+                  "pageType": "Ideas",
+                  "description": "Cemento Sol Turns Sidewalks into Sightwalks.",
+                  "headline": "SIGHTWALKS",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "5Crfpkt1jw91lbZIOxHZAd"
+                    },
+                    "contentType": "image/png",
+                    "width": 2880,
+                    "height": 1246,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/5Crfpkt1jw91lbZIOxHZAd/de1537d3fc74139e3fdbf0bd862966db/2880-x-1246-b.png",
+                    "title": "2880-x-1246-b"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "cemento-sol",
+                    "title": "Cemento Sol",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/a-breakthrough-in-inclusive-design"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "5JbPHvB2H3YsYht4EMB6gc"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "The Recruiter",
+                "subTitle": "Searching for College Football’s Most Passionate Full-Time Fans. ",
+                "caption": null,
+                "headline": "Modelo is Recruiting More Full-Time Fans",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "6Lfg6t1JaOMmvBB2nPyWlN"
+                      },
+                      "contentType": "image/png",
+                      "width": 2904,
+                      "height": 1638,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/6Lfg6t1JaOMmvBB2nPyWlN/0cf3c58877e104c2ff7d91cfec9ef4b3/Screenshot_2024-09-17_at_13.00.24.png",
+                      "title": "The Recruiter - cover image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "6ovJrHR1R066IDTXxLnFPT"
+                  },
+                  "tagLocation": null,
+                  "slug": "modelo-is-recruiting-more-full-time-fans",
+                  "title": "Modelo is Recruiting More Full-Time Fans",
+                  "pageType": "Ideas",
+                  "description": "And rewarding them all season long.",
+                  "headline": "The Recruiter",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "4Wmi2kchruqoZywEkZQ1YT"
+                    },
+                    "contentType": "image/png",
+                    "width": 2904,
+                    "height": 1638,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/4Wmi2kchruqoZywEkZQ1YT/f83b5c27e6f2cec50fdf15f0a7cbdfec/Screenshot_2024-09-17_at_13.00.24.png",
+                    "title": "The Recruiter"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "modelo",
+                    "title": "Modelo",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/modelo-is-recruiting-more-full-time-fans"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "3KhrZyAxJjv5z2Khj0PV7I"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Bringing Real Magic to Times Square",
+                "subTitle": null,
+                "caption": null,
+                "headline": "The Playable Billboard",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "50wy1Cn1CES7m9kKXdlpfb"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/50wy1Cn1CES7m9kKXdlpfb/b53d68ec30e96e4e6e2add0a18481e9c/Billboard-2_Middle.mp4",
+                      "title": "Billboard-2 Middle"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "11jhZGHc9EVSSZ0jdBGdtd"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-playable-billboard",
+                  "title": "Bringing Real Magic to Times Square",
+                  "pageType": "Ideas",
+                  "description": "Creating unexpected moments of human connection in world’s busiest place with a retro Coca-Cola game.",
+                  "headline": "The Playable Billboard",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "6SWfMrV5OgOauOZzZLuJC7"
+                    },
+                    "contentType": "image/png",
+                    "width": 3840,
+                    "height": 2160,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/6SWfMrV5OgOauOZzZLuJC7/3f65939d7f4af1194d0be3c82c614e88/C0843_proxy.mov.03_13_10_04.Still001.png",
+                    "title": "C0843 proxy.mov.03 13 10 04.Still001"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "coca-cola",
+                    "title": "Coca-Cola",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/the-playable-billboard"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "LhM2JDByCMjzETs5JZgF5"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Last Trip",
+                "subTitle": "A True Story that Moved a Whole Country",
+                "caption": null,
+                "headline": "A True Story that Moved a Whole Country",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "23AxguMvYDjnNz9HRGfHAW"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 9000,
+                      "height": 6000,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/23AxguMvYDjnNz9HRGfHAW/cbdd9be04cf661dcef92589f27200fa4/Photo_3_USE_THIS_ONE.jpg",
+                      "title": "The Last Trip Hero image"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "7gJUNVueuzEEUttA8GmyTe"
+                  },
+                  "tagLocation": null,
+                  "slug": "a-true-story-that-moved-a-whole-country",
+                  "title": "A True Story that Moved a Whole Country",
+                  "pageType": "Ideas",
+                  "description": "To Seek Justice, We Brought Back to Life a Journalist Who Died in Impunity.",
+                  "headline": "The Last Trip",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "6LkrAFld3SbYCesHXZo70F"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 9000,
+                    "height": 5062,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/6LkrAFld3SbYCesHXZo70F/4e4c34a1b35be2cdc288200e3e3e0555/The_Last_Trip-hero.jpg",
+                    "title": "The Last Trip-hero"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "newspaper-la-union-and-article-19",
+                    "title": "Newspaper La Unión and Article 19",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/a-true-story-that-moved-a-whole-country"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "68AeWGXFQEfduDsbjbtewG"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Shaping vision care by showing mother’s care",
+                "subTitle": null,
+                "caption": null,
+                "headline": "A Beautiful Sight",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "7C2Vk590nVzBxIArVzdlX4"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/7C2Vk590nVzBxIArVzdlX4/87dafeecb9bbaa250abade50e114de74/A_Beautiful_Sight-2_peek_a_boo.mp4",
+                      "title": "A Beautiful Sight-2 peek a boo"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "1I968feBwZPHD4GDyeVOOb"
+                  },
+                  "slug": "groundbreaking-short-film-is-a-beautiful-sight-to-see",
+                  "title": "A Beautiful Sight",
+                  "pageType": "Ideas",
+                  "description": "A heartwarming tale about looking after each other’s vision. ",
+                  "headline": "Shaping Vision Care by Showing Mother’s Care",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "30xa5J6Tjl2JxxPgN5pm8W"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 2880,
+                    "height": 1246,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/30xa5J6Tjl2JxxPgN5pm8W/d877a58fb9480a48491c886b777ae9a2/ABS_2880x1246_mother.jpg",
+                    "title": "ABS 2880x1246 mother"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "vabysmo",
+                    "title": "Vabysmo",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "tagLocation": {
+                    "tagLogo": null,
+                    "name": "new-york",
+                    "title": "New York",
+                    "type": "Location",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": "3 World Trade Center.  175 Greenwich Street, Floor 31 New York, NY 10007",
+                    "infoCollection": {
+                      "items": [
+                        {
+                          "__typename": "ContentTypeLocation",
+                          "name": "location-new-york",
+                          "streetAddressLine1": "3 World Trade Center",
+                          "streetAddressLine2": "175 Greenwich Street, Floor 31",
+                          "addressLocality": "New York",
+                          "addressRegion": null,
+                          "postalCode": "NY 10007",
+                          "addressCountry": "United States",
+                          "phone": "+1 212 546 2000",
+                          "format": "<div>{streetAddressLine1}<br/>\n{addressLocality}, {postalCode}, {addressCountry}<br/>\n{phone}</div>"
+                        }
+                      ]
+                    }
+                  },
+                  "path": "ideas/groundbreaking-short-film-is-a-beautiful-sight-to-see"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "1zgf8WoIG3pBRi1g6mCSMd"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Songs that you can eat with a spoon",
+                "subTitle": null,
+                "caption": null,
+                "headline": "A Soup to Remember",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "33GmT4Ha2YDI3Z6YUy9qWh"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/33GmT4Ha2YDI3Z6YUy9qWh/a0ad4117453e3d4bf32cf7a5bef1cc53/Gif_1_Rezultati_v3.mp4",
+                      "title": "Gif 1 Rezultati v3"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "1aFa1zR2zYtOC1Y6qQnOGl"
+                  },
+                  "tagLocation": null,
+                  "slug": "songs-that-you-can-eat-with-a-spoon",
+                  "title": "Songs that You can Eat with a Spoon",
+                  "pageType": "Ideas",
+                  "description": null,
+                  "headline": "A Soup to Remember",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "3236jQ2ysd2j5Nac1Gk8Fx"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 3998,
+                    "height": 2248,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/3236jQ2ysd2j5Nac1Gk8Fx/ed9d636fcd4410a931098bee3508ed70/Marodi-Alfabeto-HR-KNJIGE-niz-H_DSC9118.jpg",
+                    "title": "Marodi-Alfabeto-HR-KNJIGE-niz-H DSC9118"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "marodi",
+                    "title": "Marodi",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/songs-that-you-can-eat-with-a-spoon"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "1T1FLboE2O8YNgehX567gG"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Teaching Kids That Perfect Teeth Are Just Healthy Teeth",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Challenging children’s ideas of perfect teeth",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1l7uRy48MXSfX6fQbYzkHe"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/1l7uRy48MXSfX6fQbYzkHe/2bf564bcd0b324903da6379d03cfdaf0/perfect-teeth-gif_1.mp4",
+                      "title": "perfect-teeth-gif 1"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "v15koVtN7pyntOZE94N5o"
+                  },
+                  "slug": "teaching-kids-that-perfect-teeth-are-just-healthy-teeth",
+                  "title": "Teaching Kids That Perfect Teeth Are Just Healthy Teeth",
+                  "pageType": "Ideas",
+                  "description": null,
+                  "headline": "Challenging children’s ideas of perfect teeth",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "6linjtg7mraTLjxdPlxWIP"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 1813,
+                    "height": 1019,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/6linjtg7mraTLjxdPlxWIP/ed4f7c1d7ec72995eac17a210f603288/teeth-thumb.jpeg",
+                    "title": "teeth-thumb"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "aquafresh",
+                    "title": "Aquafresh",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "tagLocation": {
+                    "tagLogo": null,
+                    "name": "united-kingdom",
+                    "title": "UK",
+                    "type": "Location",
+                    "tagLink": null,
+                    "tagLocation": {
+                      "lat": 51.52146,
+                      "lon": -0.10204
+                    },
+                    "extraInfo": "2 Southwark Bridge Road, London, SE1 9HS, United Kingdom",
+                    "infoCollection": {
+                      "items": [
+                        {
+                          "__typename": "ContentTypeLocation",
+                          "name": "location-United Kingdom",
+                          "streetAddressLine1": "2 Southwark Bridge Road",
+                          "streetAddressLine2": null,
+                          "addressLocality": "London",
+                          "addressRegion": null,
+                          "postalCode": "SE1 9HS",
+                          "addressCountry": "United Kingdom",
+                          "phone": "+44 (0) 203 116 4700",
+                          "format": "<div>{streetAddressLine1}<br/>\n{addressLocality}, {postalCode}, {addressCountry}<br/>\n{phone}</div>"
+                        }
+                      ]
+                    }
+                  },
+                  "path": "ideas/teaching-kids-that-perfect-teeth-are-just-healthy-teeth"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "7pixz3u2eZD0R0D64WWhbb"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Revolutionising the Food Category One Grain at a Time",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Rice of Glory",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "hFQSZShGlMC1IjadgwHl7"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/hFQSZShGlMC1IjadgwHl7/30a8842ee8f8291d345f2b117c6f9254/Rice_of_Glory-gif3rd.mp4",
+                      "title": "Rice of Glory-gif3rd"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "1ErR3c9NMbK32dmIIu3MzO"
+                  },
+                  "tagLocation": null,
+                  "slug": "revolutionising-the-food-category-one-grain-at-a-time",
+                  "title": "Revolutionising the Food Category One Grain at a Time",
+                  "pageType": "Ideas",
+                  "description": "Arroz Super’s “El Grano Extra” Unleashes Ecuadorian’s Frenzy as They Seek Out 20 Winning Grains of Rice\n",
+                  "headline": "Rice of Glory",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "2f9C7B6Sqv099wrIjnYqUa"
+                    },
+                    "contentType": "image/png",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/2f9C7B6Sqv099wrIjnYqUa/7bb562a985af0474743ac25fd1407809/03.png",
+                    "title": "Rice of Glory- image"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "arroz-super-extra",
+                    "title": "Arroz Super Extra",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/revolutionising-the-food-category-one-grain-at-a-time"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "2uq2Hggl5Y9KjvEmFVLKzR"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Movie No One Saw Became Impossible To Unsee",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Mr. P ",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "0190gO1Pul16jXOso1lULM"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/0190gO1Pul16jXOso1lULM/26d074a2c7801121d5eb9af09d52784f/mr_p-Billboard.mp4",
+                      "title": "mr p-Billboard"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "3G8Ofi9EhrH0XdID2Br42I"
+                  },
+                  "slug": "the-movie-no-one-saw-became-impossible-to-unsee",
+                  "title": "The Movie No One Saw Became Impossible To Unsee",
+                  "pageType": "Ideas",
+                  "description": "Earning Pringles Hollywood Movie Attention Without Ever Making a Hollywood Movie. ",
+                  "headline": "Mr. P   ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "3xV5hE7caxfnORt7NeBxYI"
+                    },
+                    "contentType": "image/png",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/3xV5hE7caxfnORt7NeBxYI/2cc6e8c557777bfedf6647ca4ca8351d/KV_1.png",
+                    "title": "Mr P-KV 1"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "pringles",
+                    "title": "Pringles",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "tagLocation": {
+                    "tagLogo": null,
+                    "name": "new-york",
+                    "title": "New York",
+                    "type": "Location",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": "3 World Trade Center.  175 Greenwich Street, Floor 31 New York, NY 10007",
+                    "infoCollection": {
+                      "items": [
+                        {
+                          "__typename": "ContentTypeLocation",
+                          "name": "location-new-york",
+                          "streetAddressLine1": "3 World Trade Center",
+                          "streetAddressLine2": "175 Greenwich Street, Floor 31",
+                          "addressLocality": "New York",
+                          "addressRegion": null,
+                          "postalCode": "NY 10007",
+                          "addressCountry": "United States",
+                          "phone": "+1 212 546 2000",
+                          "format": "<div>{streetAddressLine1}<br/>\n{addressLocality}, {postalCode}, {addressCountry}<br/>\n{phone}</div>"
+                        }
+                      ]
+                    }
+                  },
+                  "path": "ideas/the-movie-no-one-saw-became-impossible-to-unsee"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "33FDkHw3sPbb4QAyiUbruO"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Carry Anti-Racism Wherever You Go",
+                "subTitle": null,
+                "caption": null,
+                "headline": "The Anti-Racist Bag",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "48wBFyY3NVPseWM7h7mWMg"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/48wBFyY3NVPseWM7h7mWMg/b767d375279a66e6e8d034bb6d637b55/GIF-01-BOLSA-ANTIRRACISTA.mp4",
+                      "title": "GIF-01-BOLSA-ANTIRRACISTA"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "3QpC8KyedMA0Xhg0maOPmD"
+                  },
+                  "tagLocation": null,
+                  "slug": "carry-anti-racism-wherever-you-go",
+                  "title": "Carry Anti-Racism Wherever You Go",
+                  "pageType": "Ideas",
+                  "description": "The accessory that takes a stand against the discrimination of the bag search Black Brazilians face while shopping.",
+                  "headline": "The Anti-Racist Bag",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "2RswSzAEDNOdZd13tuG6ES"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 800,
+                    "height": 600,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/2RswSzAEDNOdZd13tuG6ES/512b77f29eb60ece8042323bbf7192c7/anti-racism_bag-hero.jpg",
+                    "title": "anti-racism bag-hero"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "racismo-zero-and-zumbi-dos-palmares-university",
+                    "title": "Racismo Zero and Zumbi dos Palmares University",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/carry-anti-racism-wherever-you-go"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "4AQ9l4TOSO1zfVxCZeMDDk"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Rick Hoffman is Everyone Everywhere All At Once",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Hoffman, Hoffman, Hoffman & Hoffman",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "4QsdpCD0SIv0mqpoPxhCTx"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/4QsdpCD0SIv0mqpoPxhCTx/de2310220530512b098e4963bf56e68b/RH_PP_002.mp4",
+                      "title": "RH PP 002"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "6JUWu4cUWNbbcACfRU6Uvl"
+                  },
+                  "tagLocation": null,
+                  "slug": "rick-hoffman-is-everyone-everywhere-all-at-once",
+                  "title": "Rick Hoffman is Everyone Everywhere All At Once",
+                  "pageType": "Ideas",
+                  "description": "Lawyers Should Be Lawyering",
+                  "headline": "Hoffman, Hoffman, Hoffman & Hoffman",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "2gshyeVImwJLTrBafSvw4U"
+                    },
+                    "contentType": "image/png",
+                    "width": 1920,
+                    "height": 1080,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/2gshyeVImwJLTrBafSvw4U/3bb8783afcee4b618d38137898ce040f/hi-res_still_3.png",
+                    "title": "Hoffman-hi-res still 3"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "practicepanther",
+                    "title": "PracticePanther",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/rick-hoffman-is-everyone-everywhere-all-at-once"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "3oXuXyMOfyVcEuJkJophL9"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "There’s no such thing as a happy pig farm",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Pig Farm",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "6A6mc4qNpgUjMfN2JdtEAx"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/6A6mc4qNpgUjMfN2JdtEAx/edd99397ccc9571ff85535a62fa8579b/PETA_FEB_2024_PIG_FARM_OF_GIF_4.mp4",
+                      "title": "PETA FEB 2024 PIG FARM OF GIF 4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "daLtYOaYYaym6bkaTNYIt"
+                  },
+                  "slug": "theres-no-such-thing-as-a-happy-pig-farm",
+                  "title": "There’s no such thing as a happy pig farm",
+                  "pageType": "Ideas",
+                  "description": "A hard hitting film that highlights the atrocities of pig farming. ",
+                  "headline": "Pig Farm",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "5SK1CLIzsXJ0B80i4Cb6aA"
+                    },
+                    "contentType": "image/png",
+                    "width": 2681,
+                    "height": 1508,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/5SK1CLIzsXJ0B80i4Cb6aA/94d5cf33a7e9e5db703e8193ae362ce5/PETA5__1_.png",
+                    "title": "PETA5 (1)"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "peta",
+                    "title": "PETA",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "tagLocation": {
+                    "tagLogo": null,
+                    "name": "united-kingdom",
+                    "title": "UK",
+                    "type": "Location",
+                    "tagLink": null,
+                    "tagLocation": {
+                      "lat": 51.52146,
+                      "lon": -0.10204
+                    },
+                    "extraInfo": "2 Southwark Bridge Road, London, SE1 9HS, United Kingdom",
+                    "infoCollection": {
+                      "items": [
+                        {
+                          "__typename": "ContentTypeLocation",
+                          "name": "location-United Kingdom",
+                          "streetAddressLine1": "2 Southwark Bridge Road",
+                          "streetAddressLine2": null,
+                          "addressLocality": "London",
+                          "addressRegion": null,
+                          "postalCode": "SE1 9HS",
+                          "addressCountry": "United Kingdom",
+                          "phone": "+44 (0) 203 116 4700",
+                          "format": "<div>{streetAddressLine1}<br/>\n{addressLocality}, {postalCode}, {addressCountry}<br/>\n{phone}</div>"
+                        }
+                      ]
+                    }
+                  },
+                  "path": "ideas/theres-no-such-thing-as-a-happy-pig-farm"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "Cy3lO3eubW4XTqqR1xlZl"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Most Epic Battle for the Family Remote",
+                "subTitle": "Vodafone Ireland",
+                "caption": null,
+                "headline": "The Remote",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "7MwaIwAHv69ohg4heGfEae"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/7MwaIwAHv69ohg4heGfEae/7751ac7e5e963456537ca03cbb295d73/VODAFONE_GIF_3.mp4",
+                      "title": "VODAFONE GIF 3"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "5UtV13IHBOspnnLF7XlvPZ"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-most-epic-battle-for-the-family-remote",
+                  "title": "The Most Epic Battle for the Family Remote",
+                  "pageType": "Ideas",
+                  "description": "A new-to-category launch that showcases the almighty power of Vodafone’s TV & entertainment offering: Vodafone TV PLAY",
+                  "headline": "The Remote",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "15Ore66iMSc3X1394UUWAN"
+                    },
+                    "contentType": "image/png",
+                    "width": 1850,
+                    "height": 1042,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/15Ore66iMSc3X1394UUWAN/d1ac0cc5f473db766cebc97b1c39a2ad/remote_ideas.png",
+                    "title": "Vodafone Ireland Header"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "vodafone-ireland",
+                    "title": "Vodafone Ireland",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/the-most-epic-battle-for-the-family-remote"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "CkWV1u47W6DW316CPC2ZO"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Unforbidden Fruit",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Original Sin or Original Snack?",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "4HeigtEqkyo6nFbRMe5UL3"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/4HeigtEqkyo6nFbRMe5UL3/5eb00895279374480eccf01aa0499fe1/Unforbidden_Fruit_Ideas.mp4",
+                      "title": "Dole Ideas"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "5FJaLZk4rd7UERPEVO9jEg"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-unforbidden-fruit",
+                  "title": "The Unforbidden Fruit",
+                  "pageType": "Ideas",
+                  "description": "Appealing to the world’s biggest influencer to finally restore the reputation of the Forbidden Fruit.",
+                  "headline": "Original Sin or Original Snack?",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "307RpgF6F9fcNAeYEezdHD"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 7087,
+                    "height": 5020,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/307RpgF6F9fcNAeYEezdHD/59817e786867ae86ba245ef0a451ae02/LETTER_IMAGE.jpg",
+                    "title": "Dole Unforbidden Fruit"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "dole",
+                    "title": "Dole",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "the-unforbidden-fruit"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "5V1rjXbLPxhvw8SfMxMboh"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Data visualization, brought to you by nature",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Life Extending Stickers",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2tl5Fsph2juPZn0IL3HqgD"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/2tl5Fsph2juPZn0IL3HqgD/27d91d554a4756dc4d7564c7c0b3ad3b/Life_Extending_-_Ideas_Page.mp4",
+                      "title": "Life Extending Ideas Page"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "4T7TVIC8WrgGzS46I33t72"
+                  },
+                  "tagLocation": null,
+                  "slug": "data-visualization-brought-to-you-by-nature",
+                  "title": "Data visualization, brought to you by nature",
+                  "pageType": "Ideas",
+                  "description": "Simple stickers that help extend the lifespan of fruit and vegetables to prevent waste",
+                  "headline": "Life Extending Stickers",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "2yhVfG9Wlm5y2AjvBKD0i9"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 1125,
+                    "height": 1125,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/2yhVfG9Wlm5y2AjvBKD0i9/e2c94c9ca4deaacac9a0bac5168907dc/CloseUp_Mango_Red_03.jpg",
+                    "title": "CloseUp_Mango_Red_03.jpg"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "makro",
+                    "title": "MAKRO",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "data-visualization-brought-to-you-by-nature"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "3G8qkKo7WPBJuu6jFhJi4r"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Turning barcodes into access codes",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Access Codes",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "4RAfPXGUrHQvoi1HFIu9Bb"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/4RAfPXGUrHQvoi1HFIu9Bb/ce81dc97c40b5cb58aa3ed7e32c45ace/10s_hero_Access_Codes.mp4",
+                      "title": "10s hero Access Codes.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "7MMUvcYAkBav82vznQpL0g"
+                  },
+                  "tagLocation": null,
+                  "slug": "access-codes",
+                  "title": "Access Codes",
+                  "pageType": "Ideas",
+                  "description": "Haleon is revolutionizing healthcare by creating accessible packaging for the visually impaired by creating barcodes that speak important information aloud.",
+                  "headline": "Turning barcodes into access codes",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "3ht9CEOffJY99x6W1zrgWY"
+                    },
+                    "contentType": "image/png",
+                    "width": 2972,
+                    "height": 1670,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/3ht9CEOffJY99x6W1zrgWY/e76e8b534ef2a1c94330fe7800aeb38b/ARL_-_Image_3.png",
+                    "title": "Haleon Access Codes Hero"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "name": "haleon",
+                    "title": "Haleon",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null,
+                    "tagLogo": {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1evJFVb8wmAkBer7O4lOAA"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 712,
+                      "height": 712,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/1evJFVb8wmAkBer7O4lOAA/9a12c2d4dcd2ffa846024e579171c354/haleon_logo_homepage-banner.jpeg",
+                      "title": "Haleon Logo"
+                    }
+                  },
+                  "path": "access-codes"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "Ll6XAm10TfUsAv0jLI4rR"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Your Street is Our Showroom",
+                "subTitle": "Volvo",
+                "caption": null,
+                "headline": "Street Configurator",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "hlSOD83PNFEW83YotpmrL"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/hlSOD83PNFEW83YotpmrL/d1bb34d5dd448c1b598cbefdb9cc2edc/Volvo_3_ideas.mp4",
+                      "title": "Volvo_3_ideas.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "5WGP4RfgaXS4ZvYZ7tDZwA"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-future-of-car-buying",
+                  "title": "Street configurator",
+                  "pageType": "Ideas",
+                  "description": "Capture it, configure it, create it.",
+                  "headline": "Your Street is Our Showroom",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "27ozHsfgngfwT2LAByAsta"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 2600,
+                    "height": 1246,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/27ozHsfgngfwT2LAByAsta/2e75aa6292348ddd9f88790f36106e2b/Street_configurator-Rectangle_24122.jpg",
+                    "title": "Street configurator-Rectangle 24122.jpg"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "volvo",
+                    "title": "Volvo",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "ideas/the-future-of-car-buying"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "3gSlLbTeobXpWTXmI8p9EB"
+                },
+                "link": null,
+                "description": null,
+                "layout": "staggered",
+                "title": "The Movie No One Saw Became Impossible To Unsee",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Mr. P",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "7fGxBt3XrfzdmXASmqWlKl"
+                      },
+                      "contentType": "image/png",
+                      "width": 1920,
+                      "height": 1080,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/7fGxBt3XrfzdmXASmqWlKl/8c4d35a8c78ba1f437390d97cfdf2ff8/Mr_P_KV_3.png",
+                      "title": "Mr P KV 3"
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "4RpE4GxHqhbnkpeb4obA7u"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Protecting your future starts with a difficult conversation. ",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Uncomfortable Truths",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "6AjLXQLn3wuO0gzDc3HTiA"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/6AjLXQLn3wuO0gzDc3HTiA/dd35c5aad1b6594760477ae6d54f1af7/Mass_Mutual_Ideas.mp4",
+                      "title": "Mass Mutual Ideas"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "5IScae6WUz1g3h3gAeWHxm"
+                  },
+                  "tagLocation": null,
+                  "slug": "uncomfortable-truths",
+                  "title": "Uncomfortable Truths",
+                  "pageType": "Ideas",
+                  "description": "Mass Mutual",
+                  "headline": "Confronting Life’s Uncomfortable Truths ",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "5BOWdrBYtxhsiGV1kNkfa6"
+                    },
+                    "contentType": "image/png",
+                    "width": 3584,
+                    "height": 2016,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/5BOWdrBYtxhsiGV1kNkfa6/31d8272ec7eee52087f19b2315e543de/MM_GreyWebsite_Asset_3.png",
+                    "title": "Uncomfortable Truths-image3"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "mass-mutual",
+                    "title": "Mass Mutual",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "uncomfortable-truths"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "4ETnaLWC9UqqtcQW2dMNPH"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Postpone to Stop Postponing",
+                "subTitle": null,
+                "caption": null,
+                "headline": "Postponed Day",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "7DvdLpYqN6LRircVKqcRue"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/7DvdLpYqN6LRircVKqcRue/6a5d876d0537b0c434e12f04d512c599/Postponed_Day_Ideas.mp4",
+                      "title": "Postponed Day Ideas.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "7vNK6Uu5H5yuUJWvugJ7AL"
+                  },
+                  "tagLocation": null,
+                  "slug": "the-postponed-day",
+                  "title": "The Postponed Day",
+                  "pageType": "Ideas",
+                  "description": "One Breast Cancer Day a Year is Not Enough",
+                  "headline": "Postpone to Stop Postponing",
+                  "image": {
+                    "__typename": "Asset",
+                    "sys": {
+                      "id": "3tyYwsev1zlf8UU9VotW8N"
+                    },
+                    "contentType": "image/jpeg",
+                    "width": 2880,
+                    "height": 1613,
+                    "url": "https://images.ctfassets.net/faxemkcsc5vu/3tyYwsev1zlf8UU9VotW8N/85b96f40d8ec0c468a41900c390e0807/Captura.jpg",
+                    "title": "Postponed Day Hero"
+                  },
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "lalcec",
+                    "title": "LALCEC",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "the-postponed-day"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "1umsg2noFRPykWQUIPY8uo"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Nothing's More Beautiful Than the Sound of Cancer Being Destroyed",
+                "subTitle": null,
+                "caption": null,
+                "headline": "The Most Beautiful Sound",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "6ODkyM8ncV7pv6kCLp13si"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/6ODkyM8ncV7pv6kCLp13si/59b3b64674d004eb8807b7ce20484043/ASCO_Ideas.mp4",
+                      "title": "ASCO Ideas.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Page",
+                  "sys": {
+                    "id": "7HaeLkCCs525Z8wKYtrSEl"
+                  },
+                  "image": null,
+                  "tagLocation": null,
+                  "slug": "nothings-more-beautiful-than-the-sound-of-cancer-dying",
+                  "title": "The beautiful sound of a cancer cell being destroyed",
+                  "pageType": "Ideas",
+                  "description": "Grey Health and the American Society of Clinical Oncology capture the first-ever sound of cancer cells being destroyed to create ‘The Most Beautiful Sound’",
+                  "headline": "The Most Beautiful Sound",
+                  "tagClient": {
+                    "infoCollection": {
+                      "items": []
+                    },
+                    "tagLogo": null,
+                    "name": "asco",
+                    "title": "ASCO",
+                    "type": "Client",
+                    "tagLink": null,
+                    "tagLocation": null,
+                    "extraInfo": null
+                  },
+                  "path": "nothings-more-beautiful-than-the-sound-of-cancer-dying"
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "3HAFiptbe5taF844VEbakZ"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Unnecessary Genius",
+                "subTitle": "Pringles",
+                "caption": null,
+                "headline": "318,000 Flavours, Because You Can",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2ecP5ICqLYgxhxYKgzCyAm"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/2ecP5ICqLYgxhxYKgzCyAm/f467ea3bb5ecc5e04f4e9c085bfaf3c5/Pringles_preview_ideas_landing_compressed.mp4",
+                      "title": "Pringles_preview_ideas_landing_compressed.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Link",
+                  "title": null,
+                  "href": null,
+                  "target": null,
+                  "newTab": false,
+                  "hashFragment": null,
+                  "internalLink": {
+                    "__typename": "Page",
+                    "sys": {
+                      "id": "u0SwXc9VxdfCYiZXKSlvV"
+                    },
+                    "slug": "unnecessary-genius",
+                    "title": "Unnecessary Genius",
+                    "path": "ideas/unnecessary-genius"
+                  }
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "7dcdXJTjDjP7ZPUrGm7a3e"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Swedish Number",
+                "subTitle": "Swedish Tourist Association",
+                "caption": null,
+                "headline": "Hej, Sweden Here",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "kYN8JFaVs7ytfddGRwATX"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/kYN8JFaVs7ytfddGRwATX/0357505bbe6849397fcb157691f740e4/Sweden_preview_ideas_landing_compressed.mp4",
+                      "title": "Sweden_preview_ideas_landing_compressed.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Link",
+                  "title": null,
+                  "href": null,
+                  "target": null,
+                  "newTab": false,
+                  "hashFragment": null,
+                  "internalLink": {
+                    "__typename": "Page",
+                    "sys": {
+                      "id": "2CZlHl4MApOLDyMXQIDxKY"
+                    },
+                    "slug": "the-swedish-number",
+                    "title": "The Swedish Number",
+                    "path": "ideas/the-swedish-number"
+                  }
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "4HlcUWoF6XcdGiaKse7kUF"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "Searching for the Right Result",
+                "subTitle": "Pantene",
+                "caption": null,
+                "headline": "Equal and Balanced Results",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "7k0FG0DHyVTag9jDbmhjkE"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/7k0FG0DHyVTag9jDbmhjkE/3a7bd411ab3b8c9b25dad8873757ceea/She_pantene_preview_ideas_landing_compressed.mp4",
+                      "title": "She_pantene_preview_ideas_landing_compressed.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Link",
+                  "title": null,
+                  "href": null,
+                  "target": null,
+                  "newTab": false,
+                  "hashFragment": null,
+                  "internalLink": {
+                    "__typename": "Page",
+                    "sys": {
+                      "id": "2bTxzO6VO0Ly9uuVIWJVhY"
+                    },
+                    "slug": "she",
+                    "title": "S.H.E.",
+                    "path": "ideas/she"
+                  }
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "4yFblxKbco4O8Y4Gv2fnxl"
+                },
+                "description": null,
+                "layout": "1-col",
+                "title": "Fancy Like",
+                "subTitle": "Applebee’s",
+                "caption": null,
+                "headline": "On a Date Night",
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2uiXE71wDYAXcDiUhfdez"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/2uiXE71wDYAXcDiUhfdez/887fde5c9cd245e74293454167f2f49e/applebees_fancy_preview_ideas_landing_compressed.mp4",
+                      "title": "applebees_fancy_preview_ideas_landing_compressed.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Link",
+                  "title": null,
+                  "href": null,
+                  "target": null,
+                  "newTab": false,
+                  "hashFragment": null,
+                  "internalLink": {
+                    "__typename": "Page",
+                    "sys": {
+                      "id": "6Qgs7lFLNrrHqnWayZxg4O"
+                    },
+                    "slug": "fancy-like",
+                    "title": "Fancy Like",
+                    "path": "ideas/fancy-like"
+                  }
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "leEkK380U8zqxDY259Lit"
+                },
+                "description": null,
+                "layout": "staggered",
+                "title": "The Berlin Wall of Sound",
+                "subTitle": "SoundCloud",
+                "caption": null,
+                "headline": "Chords of Calamity",
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1MPhiRRrocvlqw5CsKYgYE"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/1MPhiRRrocvlqw5CsKYgYE/fcb8f9a291ad732533cc43145e915721/soundcloud_preview_ideas_landing_compressed.mp4",
+                      "title": "soundcloud_preview_ideas_landing_compressed.mp4"
+                    }
+                  ]
+                },
+                "link": {
+                  "__typename": "Link",
+                  "title": null,
+                  "href": null,
+                  "target": null,
+                  "newTab": false,
+                  "hashFragment": null,
+                  "internalLink": {
+                    "__typename": "Page",
+                    "sys": {
+                      "id": "2Oy0opvwe3KGaE7n6VChvG"
+                    },
+                    "slug": "the-berlin-wall-of-sound",
+                    "title": "The Berlin Wall of Sound",
+                    "path": "ideas/the-berlin-wall-of-sound"
+                  }
+                }
+              }
+            ]
+          },
+          "path": "ideas"
+        },
+        "footer": {
+          "tagline": "FAMOUSLY EFFECTIVE",
+          "navigationCollection": {
+            "total": 2,
+            "items": [
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "3rgkuw2uWVyLuRLIgVViWu"
+                },
+                "slug": "podcasts",
+                "title": "Podcasts",
+                "path": "podcasts"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "4r2eHtgD5abuINtG2g1akd"
+                },
+                "slug": "legal",
+                "title": "Legal",
+                "path": "legal"
+              }
+            ]
+          }
+        },
+        "navigation": {
+          "navigationCollection": {
+            "total": 4,
+            "items": [
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "3KlYhzSSPNxWFnhhoZRJ0B"
+                },
+                "slug": "capabilities",
+                "title": "About",
+                "path": "capabilities"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "4fF8iTW1sqwC74NdVvhvad"
+                },
+                "slug": "ideas",
+                "title": "Ideas",
+                "path": "ideas"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "2LyT0PB5wjYLLJmOfMn4Ut"
+                },
+                "slug": "locations",
+                "title": "Locations",
+                "path": "locations"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "41TEPqT9h5pSK8mHqIWhJh"
+                },
+                "slug": "news",
+                "title": "News",
+                "path": "news"
+              }
+            ]
+          },
+          "metaData": {
+            "__typename": "MetaData",
+            "sys": {
+              "id": "5zovYircFc2MD5dtR8L92n"
+            },
+            "browserTitle": "Grey | Advertising Agency",
+            "pageDescription": "Grey ranks among the worlds top advertising and marketing agencies providing creative, experiential, social, digital, commerce and health & wellness expertise to one-fifth of the FORTUNE 500.",
+            "ogTitle": null,
+            "ogDescription": null,
+            "twitterTitle": null,
+            "twitterDescription": null,
+            "robotsNoIndex": null,
+            "robotsNoFollow": null,
+            "changeFrequency": "daily",
+            "priority": null,
+            "googleVerification": null,
+            "ogImage": {
+              "__typename": "Asset",
+              "sys": {
+                "id": "3Gzh4YyRFkN1x5lQyAzznW"
+              },
+              "contentType": "image/png",
+              "width": 1200,
+              "height": 628,
+              "url": "https://images.ctfassets.net/faxemkcsc5vu/3Gzh4YyRFkN1x5lQyAzznW/d9bf2434305f6872083dde978b90e906/181725990-71f13e9b-e086-4f55-b340-be6c85f5d7db.png",
+              "title": "Default Social Sharing Image"
+            },
+            "twitterImage": {
+              "__typename": "Asset",
+              "sys": {
+                "id": "3Gzh4YyRFkN1x5lQyAzznW"
+              },
+              "contentType": "image/png",
+              "width": 1200,
+              "height": 628,
+              "url": "https://images.ctfassets.net/faxemkcsc5vu/3Gzh4YyRFkN1x5lQyAzznW/d9bf2434305f6872083dde978b90e906/181725990-71f13e9b-e086-4f55-b340-be6c85f5d7db.png",
+              "title": "Default Social Sharing Image"
+            }
+          }
+        }
+      },
+      "slug": null
+    },
+    "__N_SSG": true
+  },
+  "page": "/[[...slug]]",
+  "query": {
+    "slug": [
+      "ideas"
+    ]
+  },
+  "buildId": "AEBZW5lFGDAl4UOlOOFk8",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": []
+}

@@ -1,0 +1,722 @@
+{
+  "props": {
+    "pageProps": {
+      "preview": false,
+      "modelKey": "page",
+      "data": {
+        "page": {
+          "__typename": "Page",
+          "sys": {
+            "id": "3KlYhzSSPNxWFnhhoZRJ0B"
+          },
+          "tagClient": null,
+          "tagCategory": null,
+          "tagLocation": null,
+          "hero": null,
+          "metaData": null,
+          "podcastData": null,
+          "relatedPagesCollection": {
+            "items": []
+          },
+          "pageLogo": null,
+          "slug": "capabilities",
+          "title": "About",
+          "headline": "Hello!",
+          "description": null,
+          "pageType": "Generic",
+          "consysCollection": {
+            "total": 7,
+            "items": [
+              {
+                "__typename": "Section",
+                "layout": "1-Col",
+                "horizontalAlign": "stretch",
+                "divider": false,
+                "heightOptions": "None",
+                "consysCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "ContentTypeRichText",
+                      "sys": {
+                        "id": "5ncaFhqUdEbYmxynHHZz2N"
+                      },
+                      "alignment": "Left",
+                      "text": {
+                        "json": {
+                          "nodeType": "document",
+                          "data": {},
+                          "content": [
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "We’re Grey, a global collective of creative entrepreneurs with one mission: to build ",
+                                  "marks": [],
+                                  "data": {}
+                                },
+                                {
+                                  "nodeType": "text",
+                                  "value": "Famously Effective",
+                                  "marks": [
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "data": {}
+                                },
+                                {
+                                  "nodeType": "text",
+                                  "value": " ideas that deliver growth because they solve real business problems and make brands stand out in culture in a positive way. ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "We don’t just show up; we lead. We deliver ideas that break into new markets, build cultural relevance, and set brands up to own the future. Wherever we play, we turn momentum into movement, shaping culture, not chasing it. ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "For over 100 years, we’ve been smashing the old rules. Forget choosing between famous or effective. At Grey, we deliver both. Because in today’s world, brands need to be unforgettable and unstoppable. ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "Our edge? Cultural Value. the power that moves people, brands, and the world forward. We help brands earn it, live it, and lead with it, rooted in what truly matters. ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "If you’re ready to lead the next era, we’re ready to build it with you. Let’s talk: ",
+                                  "marks": [],
+                                  "data": {}
+                                },
+                                {
+                                  "nodeType": "hyperlink",
+                                  "data": {
+                                    "uri": "mailto:hello@grey.com"
+                                  },
+                                  "content": [
+                                    {
+                                      "nodeType": "text",
+                                      "value": "hello@grey.com",
+                                      "marks": [
+                                        {
+                                          "type": "underline"
+                                        }
+                                      ],
+                                      "data": {}
+                                    }
+                                  ]
+                                },
+                                {
+                                  "nodeType": "text",
+                                  "value": ". ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "heading-2",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "Famously Effective, Culture-Driving Creativity  ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "links": {
+                          "assets": {
+                            "hyperlink": [],
+                            "block": []
+                          },
+                          "entries": {
+                            "inline": [],
+                            "hyperlink": [],
+                            "block": []
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "1ehSxBIqAt7l3GWPjqoUGF"
+                },
+                "link": null,
+                "description": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Instead of just doing what clients ask, we dig deeper to understand the real business problems they're facing. Then, we come up with creative solutions that actually fix those problems. ",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      },
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "We make sure your message is clear and consistent everywhere your customers see it – whether it's on your website, in an ad, or on social media. A good idea should reach people in the right place, at the right moment, with the right message. ",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "layout": "staggered",
+                "title": "Advertising + Communications ",
+                "subTitle": null,
+                "caption": null,
+                "headline": null,
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2X5sQGiKAk4EeUpECzpYMc"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 4320,
+                      "height": 2160,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/2X5sQGiKAk4EeUpECzpYMc/e6f2af5ee6d49be106bf955939e5e783/For_every_moment_hero_image.jpg",
+                      "title": "For every golden moment hero image"
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "4uky2oKGeWxrIVYmWjMbGF"
+                },
+                "link": null,
+                "description": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Throughout the entire creative process, we combine human and AI brains to rapidly identify, validate apply insights to ensure those meaningful ideas are not only meaningful and impactful, but also distinctive and attention-grabbing. ",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "layout": "2-col",
+                "title": "AI  ",
+                "subTitle": null,
+                "caption": null,
+                "headline": null,
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 2,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "4GBEbBRkmL67da4iU18MuQ"
+                      },
+                      "contentType": "image/png",
+                      "width": 2481,
+                      "height": 3508,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/4GBEbBRkmL67da4iU18MuQ/c9e9d85ef201b23a6c8d4f823954a398/CocaCola_Print_German-Urdu.png",
+                      "title": "capabilities_AI"
+                    },
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "6NX8tSJUfCEUmDbcctGHG2"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/6NX8tSJUfCEUmDbcctGHG2/df2511ad580e0767abad30e1a8df3838/BasicCell-1-1-v2-ezgif.com-gif-to-mp4-converter.mp4",
+                      "title": "Louder than Cancer -gif"
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "2BbIUwIjimmYXMwMbLEbvf"
+                },
+                "link": null,
+                "description": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Our production approach is centered on delivering bold, creative, and strategic solutions that move brands forward in an ever-evolving content landscape. We merge scale with cutting-edge technology, ensuring operational excellence, cost efficiency, and fast execution, all without compromising on quality or craft. ",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "layout": "grid-1",
+                "title": "Production with Speed + Precision ",
+                "subTitle": null,
+                "caption": null,
+                "headline": null,
+                "alignment": "Right",
+                "assetsCollection": {
+                  "total": 3,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "2Mkd5azBOPsHlp1vvOu1v3"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/2Mkd5azBOPsHlp1vvOu1v3/7e14dbb0b5e4b57162dc98b27e31e2f8/AS_NeedToGo.mp4",
+                      "title": "Potty-tunities -gif2"
+                    },
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "6V3bNjlvIfNed5S9rtNB5E"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 1000,
+                      "height": 563,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/6V3bNjlvIfNed5S9rtNB5E/4713a40e4cda5a872ecacdb4c74316df/slack-imgs.jpg",
+                      "title": "About - Pantene Alix"
+                    },
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "798IDDo82WbTfpgPWVNzEG"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/798IDDo82WbTfpgPWVNzEG/cf6174b7ea0acd611c121d532c496e7b/EssentiallyBeautifulft.SonHeung-Min-ezgif.com-gif-to-mp4-converter.mp4",
+                      "title": "Tumi -Son"
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "ContentCard",
+                "sys": {
+                  "id": "zLrSk0lxGJQMIIDtPvReY"
+                },
+                "link": null,
+                "description": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "We apply design thinking, creativity and stunning craft to identify and address customer needs, solving problems and unlocking new opportunities. Our expertise encompasses visual identity, product design, communications strategy, and experience design. ",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "layout": "grid-1",
+                "title": "Design",
+                "subTitle": null,
+                "caption": null,
+                "headline": null,
+                "alignment": "Left",
+                "assetsCollection": {
+                  "total": 3,
+                  "items": [
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1uzjCLvuZuzAM8zz9aEoZp"
+                      },
+                      "contentType": "image/webp",
+                      "width": 1536,
+                      "height": 861,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/1uzjCLvuZuzAM8zz9aEoZp/b3c8f296f904abd11489714e023cb0e6/posteri-1536x861.jpg.webp",
+                      "title": "Marodi poster"
+                    },
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "1thiP164x4uneNRKTvKN98"
+                      },
+                      "contentType": "image/jpeg",
+                      "width": 1024,
+                      "height": 953,
+                      "url": "https://images.ctfassets.net/faxemkcsc5vu/1thiP164x4uneNRKTvKN98/52a9fda02223687f0e6041b167858dac/CloseUp_Mango_Red_03.jpeg",
+                      "title": "Life extending sticker Mango"
+                    },
+                    {
+                      "__typename": "Asset",
+                      "sys": {
+                        "id": "78oilI6FiRYTQMBKiBPrtq"
+                      },
+                      "contentType": "video/mp4",
+                      "width": null,
+                      "height": null,
+                      "url": "https://videos.ctfassets.net/faxemkcsc5vu/78oilI6FiRYTQMBKiBPrtq/4df60d4bd9ea08aae66c3864b14635d7/sightwalks_Post_gif_1.mp4",
+                      "title": "Sightwalks -gif"
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "Section",
+                "layout": "1-Col",
+                "horizontalAlign": "stretch",
+                "divider": false,
+                "heightOptions": "None",
+                "consysCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "ContentTypeRichText",
+                      "sys": {
+                        "id": "4xKbUcia2iBX6foxwuapZq"
+                      },
+                      "alignment": "Left",
+                      "text": {
+                        "json": {
+                          "nodeType": "document",
+                          "data": {},
+                          "content": [
+                            {
+                              "nodeType": "heading-1",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "Beyond Borders ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "links": {
+                          "assets": {
+                            "hyperlink": [],
+                            "block": []
+                          },
+                          "entries": {
+                            "inline": [],
+                            "hyperlink": [],
+                            "block": []
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "Section",
+                "layout": "1-Col",
+                "horizontalAlign": "stretch",
+                "divider": false,
+                "heightOptions": "None",
+                "consysCollection": {
+                  "total": 1,
+                  "items": [
+                    {
+                      "__typename": "ContentTypeRichText",
+                      "sys": {
+                        "id": "3I4w06tXZYS5kXMucSK9cb"
+                      },
+                      "alignment": "Left",
+                      "text": {
+                        "json": {
+                          "nodeType": "document",
+                          "data": {},
+                          "content": [
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "As the smallest of the big creative agencies of our parent, WPP, we offer the best of both worlds: the vast resources of the world's largest communications company, combined with the agility to thrive in today's fast-paced environment. Our global-to-local model ensures our clients have access to award-winning talent across every capability, with fully integrated teams delivering immediate insights and seamless activations. With 25 studios in 18 markets, we're perfectly sized to be incredibly nimble, enabling us to be responsive in today’s dynamic landscape.  ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            },
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "And the results speak for themselves: Grey has won a Grand Effie in every market we operate in. Newsweek",
+                                  "marks": [],
+                                  "data": {}
+                                },
+                                {
+                                  "nodeType": "text",
+                                  "value": " ",
+                                  "marks": [
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "data": {}
+                                },
+                                {
+                                  "nodeType": "text",
+                                  "value": "named us a Top 100 Global Most Loved Workplace (2023) and one of America’s Greatest Workplaces for Women and Professional Services (2025). In 2024, we were ranked a Top 10 Network by the Cannes Lions International Festival of Creativity.  ",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "links": {
+                          "assets": {
+                            "hyperlink": [],
+                            "block": []
+                          },
+                          "entries": {
+                            "inline": [],
+                            "hyperlink": [],
+                            "block": []
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "path": "capabilities"
+        },
+        "footer": {
+          "tagline": "FAMOUSLY EFFECTIVE",
+          "navigationCollection": {
+            "total": 2,
+            "items": [
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "3rgkuw2uWVyLuRLIgVViWu"
+                },
+                "slug": "podcasts",
+                "title": "Podcasts",
+                "path": "podcasts"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "4r2eHtgD5abuINtG2g1akd"
+                },
+                "slug": "legal",
+                "title": "Legal",
+                "path": "legal"
+              }
+            ]
+          }
+        },
+        "navigation": {
+          "navigationCollection": {
+            "total": 4,
+            "items": [
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "3KlYhzSSPNxWFnhhoZRJ0B"
+                },
+                "slug": "capabilities",
+                "title": "About",
+                "path": "capabilities"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "4fF8iTW1sqwC74NdVvhvad"
+                },
+                "slug": "ideas",
+                "title": "Ideas",
+                "path": "ideas"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "2LyT0PB5wjYLLJmOfMn4Ut"
+                },
+                "slug": "locations",
+                "title": "Locations",
+                "path": "locations"
+              },
+              {
+                "__typename": "Page",
+                "sys": {
+                  "id": "41TEPqT9h5pSK8mHqIWhJh"
+                },
+                "slug": "news",
+                "title": "News",
+                "path": "news"
+              }
+            ]
+          },
+          "metaData": {
+            "__typename": "MetaData",
+            "sys": {
+              "id": "5zovYircFc2MD5dtR8L92n"
+            },
+            "browserTitle": "Grey | Advertising Agency",
+            "pageDescription": "Grey ranks among the worlds top advertising and marketing agencies providing creative, experiential, social, digital, commerce and health & wellness expertise to one-fifth of the FORTUNE 500.",
+            "ogTitle": null,
+            "ogDescription": null,
+            "twitterTitle": null,
+            "twitterDescription": null,
+            "robotsNoIndex": null,
+            "robotsNoFollow": null,
+            "changeFrequency": "daily",
+            "priority": null,
+            "googleVerification": null,
+            "ogImage": {
+              "__typename": "Asset",
+              "sys": {
+                "id": "3Gzh4YyRFkN1x5lQyAzznW"
+              },
+              "contentType": "image/png",
+              "width": 1200,
+              "height": 628,
+              "url": "https://images.ctfassets.net/faxemkcsc5vu/3Gzh4YyRFkN1x5lQyAzznW/d9bf2434305f6872083dde978b90e906/181725990-71f13e9b-e086-4f55-b340-be6c85f5d7db.png",
+              "title": "Default Social Sharing Image"
+            },
+            "twitterImage": {
+              "__typename": "Asset",
+              "sys": {
+                "id": "3Gzh4YyRFkN1x5lQyAzznW"
+              },
+              "contentType": "image/png",
+              "width": 1200,
+              "height": 628,
+              "url": "https://images.ctfassets.net/faxemkcsc5vu/3Gzh4YyRFkN1x5lQyAzznW/d9bf2434305f6872083dde978b90e906/181725990-71f13e9b-e086-4f55-b340-be6c85f5d7db.png",
+              "title": "Default Social Sharing Image"
+            }
+          }
+        }
+      },
+      "slug": null
+    },
+    "__N_SSG": true
+  },
+  "page": "/[[...slug]]",
+  "query": {
+    "slug": [
+      "capabilities"
+    ]
+  },
+  "buildId": "AEBZW5lFGDAl4UOlOOFk8",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": []
+}

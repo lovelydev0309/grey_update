@@ -1,0 +1,1309 @@
+{
+  "generatedAt": "2026-04-24T21:37:52.394Z",
+  "homeCarousel": [
+    {
+      "slug": "bobby-lobby",
+      "client": "New York Festivals",
+      "title": "Bobby Lobby",
+      "description": "Satirizing the Reality of Awards Season to Prove It's the Work that Matters",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1nQrPZ3nbQZkgz3ylXUE7u/50308b9cc2f1d43b931e505d96555dab/BobbyLobbby.jpg",
+      "video": null,
+      "path": "https://www.grey.com/ideas/bobby-lobby"
+    },
+    {
+      "slug": "the-3-point-safety-belt",
+      "client": "Volvo",
+      "title": "Volvo In Every Vehicle ",
+      "description": "The Invention That Changed Cars Forever ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2svobjsqbYNcnGIxIAloyD/fe6fc7a4a83bf02dc902bf0fd3a14e64/Volvo_Print_70s.jpg",
+      "video": null,
+      "path": "https://www.grey.com/ideas/the-3-point-safety-belt"
+    },
+    {
+      "slug": "sun-reserve",
+      "client": "AB InBev: Corona",
+      "title": "Sun Reserve",
+      "description": "The World’s 1st Sun Reserve",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/7vYfQ0mjwMv2KRzOTqE4QB/fe645fa0262cd7b4cdd35f83053db856/1.jpg",
+      "video": null,
+      "path": "https://www.grey.com/ideas/sun-reserve"
+    },
+    {
+      "slug": "happy-christmassacre",
+      "client": "PETA",
+      "title": "Happy Christmassacre",
+      "description": "Bloodbath Beneath the Surface of our Festive Traditions",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/3TZAFkK8QZh861IJUhgI3N/db989318ecfed5af20aa479a280c54d6/Video_Still_-1.jpg",
+      "video": null,
+      "path": "https://www.grey.com/ideas/happy-christmassacre"
+    },
+    {
+      "slug": "the-shooting",
+      "client": "Newspaper La Unión and Article 19",
+      "title": "The Shooting",
+      "description": "We Shoot For the Truth. They Shoot to Silence Us.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/VepA6pcP2SZOH0a4dYYfo/e2e3712217b95f4724a1364ffca7c6da/THE_SHOOTING_grey_996_x_1246.jpg",
+      "video": null,
+      "path": "https://www.grey.com/ideas/the-shooting"
+    },
+    {
+      "slug": "estibadores",
+      "client": "Mibanco",
+      "title": "Estibadores",
+      "description": "The Cart That Pays: Turning Work Tools into Financial Inclusion. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/lz4ut3OD2hOa9sWIqzb9n/2348627577ae342d687090c3a345a0fe/3.png",
+      "video": null,
+      "path": "https://www.grey.com/ideas/estibadores"
+    },
+    {
+      "slug": "infinite-sunset",
+      "client": "AB InBev: Corona Cero",
+      "title": "Infinite Sunset",
+      "description": "Infinite Sunset: Global Livestream Redefines 'Anytime' for Corona Cero",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/7ezkxjZsIL9B2TQbzpaAOz/d2a293e1732e8be52818e069db2857a5/InfiniteSunset_04_extra.mp4",
+      "path": "https://www.grey.com/ideas/infinite-sunset"
+    }
+  ],
+  "ideasGrid": [
+    {
+      "title": "Bobby Lobby",
+      "client": "New York Festivals",
+      "description": "Integrity is great. But have you tried winning?",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/AWXYUeUl3YFjDJ9jOoaiN/a808db39d6e5959b719bacefa6c59020/16X9_KV_VS1.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/bobby-lobby",
+      "slug": "bobby-lobby"
+    },
+    {
+      "title": "Happy Christmasscre",
+      "client": "PETA",
+      "description": "Forget the jingles and tinsel. Happy Christmassacre rips open the glossy wrapping on Christmas dinner to reveal the grim reality behind people’s festive traditions. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/3TZAFkK8QZh861IJUhgI3N/db989318ecfed5af20aa479a280c54d6/Video_Still_-1.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/happy-christmassacre",
+      "slug": "happy-christmassacre"
+    },
+    {
+      "title": "Volvo: In Every Vehicle",
+      "client": "Volvo",
+      "description": "The Invention That Changed Cars Forever ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1DStNpmg8Yla2TdDZOlumL/8b186c095766f4a45918d3a1548fdf32/Volvo_Print_70s.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/the-3-point-safety-belt",
+      "slug": "the-3-point-safety-belt"
+    },
+    {
+      "title": "Sun Reserve",
+      "client": "AB InBev: Corona",
+      "description": "A new preservation concept.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/7vYfQ0mjwMv2KRzOTqE4QB/fe645fa0262cd7b4cdd35f83053db856/1.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/sun-reserve",
+      "slug": "sun-reserve"
+    },
+    {
+      "title": "The Shooting",
+      "client": "Newspaper La Unión and Article 19",
+      "description": "We shoot for the truth. They shoot to silence us. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/QsvokoeFnWCA2IvH9KmbW/cd7c83aace6c4bbbcd1adb4440ac75b8/THE_SHOOTING_grey_2880x1246.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/the-shooting",
+      "slug": "the-shooting"
+    },
+    {
+      "title": "EstibADores",
+      "client": "Mibanco",
+      "description": "Peru's estibadores now earn income by renting ad space on their essential work carts. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/A99zL0tVd5zig0j2y6fn3/2f4c59a3c3c2ea769f5b0e75e9b265b7/6.png",
+      "video": null,
+      "url": "https://www.grey.com/ideas/estibadores",
+      "slug": "estibadores"
+    },
+    {
+      "title": "envy™ my bag",
+      "client": "VOG-VIP",
+      "description": "The ultimate fruit of fashion.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/4aEx92Hl30BwtPhb9oFT2Q/3116c1882d39477bc99a77fa93fec0a6/envy_my_bag.jpg",
+      "video": null,
+      "url": "https://www.grey.com/locations/italy/envy-tm-my-bag",
+      "slug": "envy-tm-my-bag"
+    },
+    {
+      "title": "We All Understand Coca-Cola",
+      "client": "Coca-Cola",
+      "description": "Stories of cross-cultural connections, made simply by sharing a Coke. ",
+      "image": "https://downloads.ctfassets.net/faxemkcsc5vu/2w1vO8PoTsxRqAMuPmmQvZ/89ad0a567e4fcdd9a49d24cd94edcf26/CocaCola_Spanish-Dhivehi2.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/we-all-understand-coca-cola",
+      "slug": "we-all-understand-coca-cola"
+    },
+    {
+      "title": "Infinite Sunset",
+      "client": "AB InBev: Corona Cero",
+      "description": "Leveraging 250+ Cameras Across 55 Countries to Turn Every Moment into Sunset Time. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2BBFWTdwPQZvvCfYqjuL3t/2804d9f47c9c1978e77ace1da941097b/Hero_Infinite_PNG.png",
+      "video": null,
+      "url": "https://www.grey.com/ideas/infinite-sunset",
+      "slug": "infinite-sunset"
+    },
+    {
+      "title": "SAD KAMA-CHAN",
+      "client": "Food Passion Co., Ltd. ",
+      "description": "Bar BQ Plaza shakes up sales with a bold flip of the iconic fish ball smile. ",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/1zuOJnLL6ERyEiX1J8ofKV/a508234454b794fe0a7bee646b1f2d38/SADKAMA-CHAN02-ezgif.com-gif-to-mp4-converter.mp4",
+      "url": "https://www.grey.com/ideas/sad-kama-chan",
+      "slug": "sad-kama-chan"
+    },
+    {
+      "title": "Claustrobars",
+      "client": "AB InBev: Stella Artois",
+      "description": "A humorous out-of-home campaign celebrating the reward of a perfectly poured Stella Artois, even in the most crowded bars. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/FvhMfhgM6sHVyp0xywYYX/200497de2e070e9cce9f7cce880192c8/Worth_it_1.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/claustrobars",
+      "slug": "claustrobars"
+    },
+    {
+      "title": "Potty-tunities",
+      "client": "Georgia Pacific: Angel Soft",
+      "description": "Giving People Perfectly-Timed Bathroom Breaks During Unmissable Live Events. ",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/5inEu938ar5A6AsOye5naf/f4bb7e94a3b6788d0009e9f8e4a84576/AngelSoft_KV_Potty-tunity.png",
+      "video": null,
+      "url": "https://www.grey.com/ideas/potty-tunities",
+      "slug": "potty-tunities"
+    },
+    {
+      "title": "Applebee's is Serving NFL",
+      "client": "Applebee's",
+      "description": "Welcome to Pre-Seasoning: An Applebee’s Training Camp",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/43DLB93ZLBR2qeiVmXCunK/21209b7632592761ed621e2c6473bf98/AB_PRE_SEASONING_HERO_IMAGE.png",
+      "video": null,
+      "url": "https://www.grey.com/ideas/applebees-just-became-the-nfls-33rd-franchise",
+      "slug": "applebees-just-became-the-nfls-33rd-franchise"
+    },
+    {
+      "title": "For Every Golden Moment",
+      "client": "AB InBev: Corona Cero",
+      "description": "Olympic Golden Moments Inspire World to Embrace Their Own",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2wzNTiknYANNMPXf7TSFsh/9bbd1302bb1564252fbf63f805b8b3b0/For_every_moment_hero_image.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/for-every-golden-moment",
+      "slug": "for-every-golden-moment"
+    },
+    {
+      "title": "A Breakthrough in Inclusive Design",
+      "client": "Cemento Sol",
+      "description": "Cemento Sol Turns Sidewalks into Sightwalks.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2JkPX0nU5Sfob8zx0KRiDr/fe30d4a25ec40ad2b6dde6e5748a4f9b/2880-x-1246-d.png",
+      "video": null,
+      "url": "https://www.grey.com/ideas/a-breakthrough-in-inclusive-design",
+      "slug": "a-breakthrough-in-inclusive-design"
+    },
+    {
+      "title": "The Recruiter",
+      "client": "Modelo",
+      "description": "And rewarding them all season long.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6Lfg6t1JaOMmvBB2nPyWlN/0cf3c58877e104c2ff7d91cfec9ef4b3/Screenshot_2024-09-17_at_13.00.24.png",
+      "video": null,
+      "url": "https://www.grey.com/ideas/modelo-is-recruiting-more-full-time-fans",
+      "slug": "modelo-is-recruiting-more-full-time-fans"
+    },
+    {
+      "title": "Bringing Real Magic to Times Square",
+      "client": "Coca-Cola",
+      "description": "Creating unexpected moments of human connection in world’s busiest place with a retro Coca-Cola game.",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/50wy1Cn1CES7m9kKXdlpfb/b53d68ec30e96e4e6e2add0a18481e9c/Billboard-2_Middle.mp4",
+      "url": "https://www.grey.com/ideas/the-playable-billboard",
+      "slug": "the-playable-billboard"
+    },
+    {
+      "title": "The Last Trip",
+      "client": "Newspaper La Unión and Article 19",
+      "description": "To Seek Justice, We Brought Back to Life a Journalist Who Died in Impunity.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/23AxguMvYDjnNz9HRGfHAW/cbdd9be04cf661dcef92589f27200fa4/Photo_3_USE_THIS_ONE.jpg",
+      "video": null,
+      "url": "https://www.grey.com/ideas/a-true-story-that-moved-a-whole-country",
+      "slug": "a-true-story-that-moved-a-whole-country"
+    },
+    {
+      "title": "Shaping vision care by showing mother’s care",
+      "client": "Vabysmo",
+      "description": "A heartwarming tale about looking after each other’s vision. ",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/7C2Vk590nVzBxIArVzdlX4/87dafeecb9bbaa250abade50e114de74/A_Beautiful_Sight-2_peek_a_boo.mp4",
+      "url": "https://www.grey.com/ideas/groundbreaking-short-film-is-a-beautiful-sight-to-see",
+      "slug": "groundbreaking-short-film-is-a-beautiful-sight-to-see"
+    },
+    {
+      "title": "Songs that you can eat with a spoon",
+      "client": "Marodi",
+      "description": "A Soup to Remember",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/33GmT4Ha2YDI3Z6YUy9qWh/a0ad4117453e3d4bf32cf7a5bef1cc53/Gif_1_Rezultati_v3.mp4",
+      "url": "https://www.grey.com/ideas/songs-that-you-can-eat-with-a-spoon",
+      "slug": "songs-that-you-can-eat-with-a-spoon"
+    },
+    {
+      "title": "Teaching Kids That Perfect Teeth Are Just Healthy Teeth",
+      "client": "Aquafresh",
+      "description": "Challenging children’s ideas of perfect teeth",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/1l7uRy48MXSfX6fQbYzkHe/2bf564bcd0b324903da6379d03cfdaf0/perfect-teeth-gif_1.mp4",
+      "url": "https://www.grey.com/ideas/teaching-kids-that-perfect-teeth-are-just-healthy-teeth",
+      "slug": "teaching-kids-that-perfect-teeth-are-just-healthy-teeth"
+    },
+    {
+      "title": "Revolutionising the Food Category One Grain at a Time",
+      "client": "Arroz Super Extra",
+      "description": "Arroz Super’s “El Grano Extra” Unleashes Ecuadorian’s Frenzy as They Seek Out 20 Winning Grains of Rice\n",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/hFQSZShGlMC1IjadgwHl7/30a8842ee8f8291d345f2b117c6f9254/Rice_of_Glory-gif3rd.mp4",
+      "url": "https://www.grey.com/ideas/revolutionising-the-food-category-one-grain-at-a-time",
+      "slug": "revolutionising-the-food-category-one-grain-at-a-time"
+    },
+    {
+      "title": "The Movie No One Saw Became Impossible To Unsee",
+      "client": "Pringles",
+      "description": "Earning Pringles Hollywood Movie Attention Without Ever Making a Hollywood Movie. ",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/0190gO1Pul16jXOso1lULM/26d074a2c7801121d5eb9af09d52784f/mr_p-Billboard.mp4",
+      "url": "https://www.grey.com/ideas/the-movie-no-one-saw-became-impossible-to-unsee",
+      "slug": "the-movie-no-one-saw-became-impossible-to-unsee"
+    },
+    {
+      "title": "Carry Anti-Racism Wherever You Go",
+      "client": "Racismo Zero and Zumbi dos Palmares University",
+      "description": "The accessory that takes a stand against the discrimination of the bag search Black Brazilians face while shopping.",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/48wBFyY3NVPseWM7h7mWMg/b767d375279a66e6e8d034bb6d637b55/GIF-01-BOLSA-ANTIRRACISTA.mp4",
+      "url": "https://www.grey.com/ideas/carry-anti-racism-wherever-you-go",
+      "slug": "carry-anti-racism-wherever-you-go"
+    },
+    {
+      "title": "Rick Hoffman is Everyone Everywhere All At Once",
+      "client": "PracticePanther",
+      "description": "Lawyers Should Be Lawyering",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/4QsdpCD0SIv0mqpoPxhCTx/de2310220530512b098e4963bf56e68b/RH_PP_002.mp4",
+      "url": "https://www.grey.com/ideas/rick-hoffman-is-everyone-everywhere-all-at-once",
+      "slug": "rick-hoffman-is-everyone-everywhere-all-at-once"
+    },
+    {
+      "title": "There’s no such thing as a happy pig farm",
+      "client": "PETA",
+      "description": "A hard hitting film that highlights the atrocities of pig farming. ",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/6A6mc4qNpgUjMfN2JdtEAx/edd99397ccc9571ff85535a62fa8579b/PETA_FEB_2024_PIG_FARM_OF_GIF_4.mp4",
+      "url": "https://www.grey.com/ideas/theres-no-such-thing-as-a-happy-pig-farm",
+      "slug": "theres-no-such-thing-as-a-happy-pig-farm"
+    },
+    {
+      "title": "The Most Epic Battle for the Family Remote",
+      "client": "Vodafone Ireland",
+      "description": "A new-to-category launch that showcases the almighty power of Vodafone’s TV & entertainment offering: Vodafone TV PLAY",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/7MwaIwAHv69ohg4heGfEae/7751ac7e5e963456537ca03cbb295d73/VODAFONE_GIF_3.mp4",
+      "url": "https://www.grey.com/ideas/the-most-epic-battle-for-the-family-remote",
+      "slug": "the-most-epic-battle-for-the-family-remote"
+    },
+    {
+      "title": "The Unforbidden Fruit",
+      "client": "Dole",
+      "description": "Appealing to the world’s biggest influencer to finally restore the reputation of the Forbidden Fruit.",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/4HeigtEqkyo6nFbRMe5UL3/5eb00895279374480eccf01aa0499fe1/Unforbidden_Fruit_Ideas.mp4",
+      "url": "https://www.grey.com/the-unforbidden-fruit",
+      "slug": "the-unforbidden-fruit"
+    },
+    {
+      "title": "Data visualization, brought to you by nature",
+      "client": "MAKRO",
+      "description": "Simple stickers that help extend the lifespan of fruit and vegetables to prevent waste",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/2tl5Fsph2juPZn0IL3HqgD/27d91d554a4756dc4d7564c7c0b3ad3b/Life_Extending_-_Ideas_Page.mp4",
+      "url": "https://www.grey.com/data-visualization-brought-to-you-by-nature",
+      "slug": "data-visualization-brought-to-you-by-nature"
+    },
+    {
+      "title": "Turning barcodes into access codes",
+      "client": "Haleon",
+      "description": "Haleon is revolutionizing healthcare by creating accessible packaging for the visually impaired by creating barcodes that speak important information aloud.",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/4RAfPXGUrHQvoi1HFIu9Bb/ce81dc97c40b5cb58aa3ed7e32c45ace/10s_hero_Access_Codes.mp4",
+      "url": "https://www.grey.com/access-codes",
+      "slug": "access-codes"
+    },
+    {
+      "title": "Your Street is Our Showroom",
+      "client": "Volvo",
+      "description": "Capture it, configure it, create it.",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/hlSOD83PNFEW83YotpmrL/d1bb34d5dd448c1b598cbefdb9cc2edc/Volvo_3_ideas.mp4",
+      "url": "https://www.grey.com/ideas/the-future-of-car-buying",
+      "slug": "the-future-of-car-buying"
+    },
+    {
+      "title": "The Movie No One Saw Became Impossible To Unsee",
+      "client": "",
+      "description": "Mr. P",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/7fGxBt3XrfzdmXASmqWlKl/8c4d35a8c78ba1f437390d97cfdf2ff8/Mr_P_KV_3.png",
+      "video": null,
+      "url": null,
+      "slug": null
+    },
+    {
+      "title": "Protecting your future starts with a difficult conversation.",
+      "client": "Mass Mutual",
+      "description": "Mass Mutual",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/6AjLXQLn3wuO0gzDc3HTiA/dd35c5aad1b6594760477ae6d54f1af7/Mass_Mutual_Ideas.mp4",
+      "url": "https://www.grey.com/uncomfortable-truths",
+      "slug": "uncomfortable-truths"
+    },
+    {
+      "title": "Postpone to Stop Postponing",
+      "client": "LALCEC",
+      "description": "One Breast Cancer Day a Year is Not Enough",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/7DvdLpYqN6LRircVKqcRue/6a5d876d0537b0c434e12f04d512c599/Postponed_Day_Ideas.mp4",
+      "url": "https://www.grey.com/the-postponed-day",
+      "slug": "the-postponed-day"
+    },
+    {
+      "title": "Nothing's More Beautiful Than the Sound of Cancer Being Destroyed",
+      "client": "ASCO",
+      "description": "Grey Health and the American Society of Clinical Oncology capture the first-ever sound of cancer cells being destroyed to create ‘The Most Beautiful Sound’",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/6ODkyM8ncV7pv6kCLp13si/59b3b64674d004eb8807b7ce20484043/ASCO_Ideas.mp4",
+      "url": "https://www.grey.com/nothings-more-beautiful-than-the-sound-of-cancer-dying",
+      "slug": "nothings-more-beautiful-than-the-sound-of-cancer-dying"
+    },
+    {
+      "title": "Unnecessary Genius",
+      "client": "",
+      "description": "318,000 Flavours, Because You Can",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/2ecP5ICqLYgxhxYKgzCyAm/f467ea3bb5ecc5e04f4e9c085bfaf3c5/Pringles_preview_ideas_landing_compressed.mp4",
+      "url": null,
+      "slug": null
+    },
+    {
+      "title": "The Swedish Number",
+      "client": "",
+      "description": "Hej, Sweden Here",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/kYN8JFaVs7ytfddGRwATX/0357505bbe6849397fcb157691f740e4/Sweden_preview_ideas_landing_compressed.mp4",
+      "url": null,
+      "slug": null
+    },
+    {
+      "title": "Searching for the Right Result",
+      "client": "",
+      "description": "Equal and Balanced Results",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/7k0FG0DHyVTag9jDbmhjkE/3a7bd411ab3b8c9b25dad8873757ceea/She_pantene_preview_ideas_landing_compressed.mp4",
+      "url": null,
+      "slug": null
+    },
+    {
+      "title": "Fancy Like",
+      "client": "",
+      "description": "On a Date Night",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/2uiXE71wDYAXcDiUhfdez/887fde5c9cd245e74293454167f2f49e/applebees_fancy_preview_ideas_landing_compressed.mp4",
+      "url": null,
+      "slug": null
+    },
+    {
+      "title": "The Berlin Wall of Sound",
+      "client": "",
+      "description": "Chords of Calamity",
+      "image": null,
+      "video": "https://videos.ctfassets.net/faxemkcsc5vu/1MPhiRRrocvlqw5CsKYgYE/fcb8f9a291ad732533cc43145e915721/soundcloud_preview_ideas_landing_compressed.mp4",
+      "url": null,
+      "slug": null
+    }
+  ],
+  "news": [
+    {
+      "title": "Gabriel Schmitt Joins Global Jury of The International ANDY Awards",
+      "excerpt": "Grey’s Global Chief Creative Officer, Gabriel Schmitt, has been selected to serve on the global jury of The International ANDY Awards.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2PmHAuNif57tQm4jEVj73m/a27511e55424e610f5e7cf68d061e7a0/gab_jury.png",
+      "path": "https://www.grey.com/news/gabriel-schmitt-joins-global-jury-of-andy-awards"
+    },
+    {
+      "title": "Grey London Appoints Jai Kotecha as CEO",
+      "excerpt": "Grey London has named Jai Kotecha as its new Chief Executive Officer, effective 15 January 2026. Kotecha joins from Ogilvy, where he served as EMEA Managing Director of Clients, leading PR, social and influencer work for major global accounts including WPP OpenX’s partnership with The Coca-Cola Company.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/5r3bjQzgIN9P6Of8a6jX7F/4a2d71d37f9580dac1dee537426bef10/2025_GREYTeam_Helen_Jai_Tarek.png",
+      "path": "https://www.grey.com/grey-london-appoints-jai-kotecha-as-ceo"
+    },
+    {
+      "title": "Grey Names New U.S. Leadership to Accelerate Growth",
+      "excerpt": "Grey has announced a new leadership team for its U.S. studios, naming Agnes Fische r as U.S. CEO and welcoming Samira Ansari as U.S. Chief Creative Officer. The move unites Grey’s New York and Cincinnati studios under one vision to drive growth and opportunity for clients and creative talent nationwide.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6rqc30HH7Jo0oKpEgqejod/a49882fa26bbb85845d231b366c5d438/Agnes-Fischer-Samira-Ansari-headshots-UWP-CUS.jpg",
+      "path": "https://www.grey.com/grey-names-new-u-s-leadership-to-accelerate-growth"
+    },
+    {
+      "title": "Mary Kay Selects Grey New York as Global Advertising Partner",
+      "excerpt": "Grey New York has been appointed the global advertising partner for Mary Kay, the #1 Direct Selling Brand of Skin Care and Color Cosmetics in the World. The partnership marks a pivotal moment in the company’s 60+ year history as it prepares to launch a global master brand campaign that will define its next era of growth.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/3ikG0T6cYmhP99jJT9UJ1i/1f4d916a3166a3382e56075254248095/Grey_Mary_Kay_v2.png",
+      "path": "https://www.grey.com/mary-kay-selects-grey-ny-as-global-advertising-partner"
+    },
+    {
+      "title": "Almond Board of California Selects Grey New York as Agency Partner",
+      "excerpt": "We’re excited to share that the Almond Board of California has chosen Grey New York as its new agency partner following a competitive review. This partnership is a meaningful opportunity to help shape the future of one of the world’s most trusted and culturally relevant food brands.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/46BIWbyKkqOBLfCQOwZq2g/3b41ad0c8a7509f577a0f3c044579fd4/Slide_16_9_-_3.png",
+      "path": "https://www.grey.com/news/almond-board-of-california-selects-grey-new-york"
+    },
+    {
+      "title": "Grey Hong Kong Wins Best of Show at the ONE Asia Creative Awards",
+      "excerpt": "Grey Hong Kong has taken home the Best of Show at the prestigious ONE Asia Creative Awards for Pantene “Pet Pit” — a campaign praised by judges as “one of the craziest ideas to ever wow a room full of seasoned creatives.”",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/4wIfuf7B9onJAwipW4WSre/0f79392eedd0ef0ebd84ea0b95dd997c/best_of_show.png",
+      "path": "https://www.grey.com/best-of-show-at-the-one-asia-creative-awards"
+    },
+    {
+      "title": "Grey Sweeps Top Honors at El Ojo de Iberoamérica: Mexico Agency of the Year, Best Creative & Multiple Grand Prix",
+      "excerpt": "Grey Mexico was named Mexican Agency of the Year and ranked fifth among the best creative agencies in Ibero-America at this year's El Ojo de Iberoamérica, the first and most prestigious international festival with a unique Ibero-American creative perspective. This remarkable achievement was underscored by the recognition of Alexis Ospina, CCO of Grey Mexico, as the Best Creative of the country.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/5MhvSkljcAAPWintKYeWPN/f70e3f9de3cb88993fb932036e60a10d/Slide_16_9_-_1.png",
+      "path": "https://www.grey.com/news/grey-sweeps-top-honors-at-el-ojo-de-iberoamerica"
+    },
+    {
+      "title": "Grey Takes Home 17 Wins at the London International Awards",
+      "excerpt": "Grey continues to lead the way in Famously Effective creativity, earning 17 awards at the 2025 London International Awards (LIA), including 5 Gold, 8 Silver, and 4 Bronze.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/tjyBhN9Eti29WzqupZNOj/6d3dd453468b4cdace8aaa2f87b3c268/LIA_total_post_website.png",
+      "path": "https://www.grey.com/grey-takes-home-17-wins-at-the-lia"
+    },
+    {
+      "title": "Grey Takes the Stage at Advertising Week New York 2025",
+      "excerpt": "Next week, Grey is heading to Advertising Week New York 2025 , and we’re bringing the big ideas with us. From redefining what it means to be famous to teaming up with mascots and medical experts to take on cancer, and exploring how creativity thrives in the streaming era, we’re showing how Famously Effective creativity breaks through, and makes a difference.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/4EcoXi5f5NDtLxzte46nCy/61494ecdedf4203b0983bc9f2ce290cf/aw_new_website.png",
+      "path": "https://www.grey.com/grey-takes-the-stage-at-advertising-week-new-york-2025"
+    },
+    {
+      "title": "Grey London Partners with Comic Relief to Relaunch Sport Relief in 2026",
+      "excerpt": "Comic Relief has appointed Grey London as its creative agency partner to redefine and relaunch the much-loved Sport Relief campaign ahead of its 2026 return.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/fWoB5tGulXcA7jsNgcehM/bf78d5ffa777ea3379e8bec2c2f8b666/sport_relief_main_image.jpg",
+      "path": "https://www.grey.com/grey-london-to-relaunch-sport-relief"
+    },
+    {
+      "title": "Grey Wins People’s Choice “Network of the Year” at Creativepool Annual 2025",
+      "excerpt": "We’re proud to announce that Grey has been awarded People’s Choice Network of the Year at the Creativepool Annual 2025 Awards, a recognition voted on by the global creative community.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/7JQa9acuGMvFNe9L4dhllM/637932764974ef9256613e5aaa9fe031/creativepool_network_of_the_year_LI.png",
+      "path": "https://www.grey.com/news/network-of-the-year-at-creativepool-annual-2025"
+    },
+    {
+      "title": "Fearless Creativity + Strategic Growth: María Fernanda Gutiérrez Joins Grey Mexico as President",
+      "excerpt": "A powerhouse leader, María joins from Publicis Groupe where she most recently served as COO of Leo MX, overseeing the successful merger and operation of Publicis WW, Leo Burnett, and Marcel Mexico. Grey Mexico CCO Alexis Ospina shared that her arrival marks a pivotal moment, \"María’ strategic vision and client-centric approach will be invaluable as we continue to push the boundaries of creativity.”",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6lTuKkIIb5s4DCtZxeAGdm/016d8340081d06108fff5ed62c13a21e/Maria_headshot1.jpg",
+      "path": "https://www.grey.com/maria-fernanda-gutierrez-joins-grey-mexico-as-president"
+    },
+    {
+      "title": "22 Lions. Famously Effective",
+      "excerpt": "Grey wrapped up a strong showing at the 2025 Cannes Lions International Festival of Creativity with an impressive 22 Lions awarded across a wide range of categories, and in every region, underscoring the agency’s global creative momentum and unwavering commitment to delivering Famously Effective work everywhere, all the time.",
+      "image": "https://videos.ctfassets.net/faxemkcsc5vu/7el8bm9gthqL0zNnwW1RHO/de1d4e06971c01c379736f334c41726e/top_5_agency_post_1.mp4",
+      "path": "https://www.grey.com/news/22-lions-famously-effective"
+    },
+    {
+      "title": "Grey's \"World Changing Ideas\" Honored by Fast Co.",
+      "excerpt": "Grey is proud to announce that it has been named an honoree of Fast Company’s 2025 World Changing Ideas Awards, alongside its client UNACEM. Recognized for its work on \"Sightwalks,\" the innovative tactile signage system created by Grey Peru, is transforming sidewalks for UNACEM/Sol Cemento. This annual recognition honors transformative efforts that tackle the world’s most pressing issues that are helping mold the world.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/5hQgthmGoFWSdBqbGKp1pq/73c814126c3797981d8df809cddea6b3/black_fastco.png",
+      "path": "https://www.grey.com/news/greys-world-changing-ideas-honored-by-fast-co"
+    },
+    {
+      "title": "Grey's 6 CLIO Health Awards: 3 Grand Prix Lead the Way",
+      "excerpt": "Grey took home 6 pieces of metal at the 2025 CLIO Health Awards, one of the industry’s top honors for creativity in healthcare, including 3 Grand Prix, 1 Gold, and 2 Silver across standout campaigns in the U.S, and Latin America.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6cYmmzj7xPD2CqP5NMKZqX/d8ecb8f840efd53d1885034b3da10452/Clio_health_linkedin.png",
+      "path": "https://www.grey.com/greys-6-clio-health-awards-3-grand-prix-lead-the-way"
+    },
+    {
+      "title": "Grey China: Elvis Li Takes the Helm as President",
+      "excerpt": "Elvis Li, most recently General Manager at BBDO China, with a wealth of industry experience, has joined Grey China as President. Sarah Trombetta, CEO of Grey APAC, shared “Elvis has deep roots in the market and a fierce entrepreneurial spirit that clients can trust to lead them towards breakthrough creativity in a highly competitive, sales-driven landscape.”",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1V2VdofF58fPWFscdUGHJp/279055fd02c69b20796ef914db759e5d/elvis_web.png",
+      "path": "https://www.grey.com/news/li-joins-with-a-bold-vision-and-deep-market-roots"
+    },
+    {
+      "title": "Grey Wins Global Circle K Business, Debuts 1st Campaign",
+      "excerpt": "Grey is proud to announce its appointment as global AOR for Circle K, one of the world’s largest independent convenience store operators. This multi-year partnership tasks Grey with leading strategy and advertising efforts across Circle K and parent company Alimentation Couche-Tard's network of over 10,000 stores in the U.S., Canada, and Europe, to deliver a seamless, integrated approach.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/78P2YNwRFpaefJ8opKeFpJ/e67efe8f68e68ed4100a28028c58f459/circle_k_logo_small.png",
+      "path": "https://www.grey.com/news/circle-k-makes-your-day"
+    },
+    {
+      "title": "Grey Germany Welcomes Lucas Petermeier as President",
+      "excerpt": "Grey Germany has tapped Lucas Petermeier as President, ushering in a period of growth for the agency. Global CEO Laura Maness shared \"Lucas’ entrepreneurial spirit, holistic marketing expertise, and global perspective make him the ideal leader to guide our teams in Hamburg and Düsseldorf as we shape the future of Grey Germany.”",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2lMolKumlmR9IwIsuwsSIU/f67e17dd9e4159f1f814945883e75ff7/lucas_p.png",
+      "path": "https://www.grey.com/news/grey-germany-welcomes-lucas-petermeier-as-president"
+    },
+    {
+      "title": "Grey Scores 12 Pencils at D&AD",
+      "excerpt": "Grey had a standout night at the 2025 D&AD Awards, considered by many the worlds' most prestigious benchmark for commercial creativity, taking home an incredible 12 Pencils. These wins are a powerful reminder of what it means to deliver Famously Effective work on a global stage.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2hH4TK4aYRKPhk2rvV4BDk/967f748b333673e0f05c8e082c918e6d/D_AD_NEWS.png",
+      "path": "https://www.grey.com/grey-scores-12-pencils-at-d-and-ad"
+    },
+    {
+      "title": "One Show. Many Wins. All Grey.",
+      "excerpt": "Grey delivered a standout performance at this year’s One Show, one of the world's most prestigious award shows in advertising and design, with Famously Effective work from across the globe earning widespread recognition. From purpose-driven innovation to immersive brand storytelling, Grey’s campaigns demonstrated the power of creativity to spark real-world impact.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2kx2ILoURvAwcakMb4zYIm/7a9f73c0ec3f22102e9c8f17d0accf2b/one_show_cover.png",
+      "path": "https://www.grey.com/one-show-many-wins-all-grey"
+    },
+    {
+      "title": "Gold ANDYs Awarded to Grey",
+      "excerpt": "The International ANDY Awards, the first show of the year and one of the most sought-after awards for creative excellence in advertising, awarded Grey with four Gold ANDYs at the 2025 celebration.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2FPYunTydRPfaGhPnw8ce1/48850bff7b5e1f0545a35c457bd65910/Slide_16_9_-_1.png",
+      "path": "https://www.grey.com/4-gold-andys-awarded-to-grey"
+    },
+    {
+      "title": "Grey Malaysia Wins CelcomDigi Brand Account",
+      "excerpt": "Grey Malaysia has been appointed brand agency partner for CelcomDigi Berhad, the country’s largest telecommunications company. The win follows a competitive pitch and marks a major milestone as CelcomDigi ramps up its next phase of growth.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6LVoNoLrAH2pxPQDb4TepT/c53bb32e66ee12a4cfa28c227624a854/231020-celcomdigi-logo-1140x570.jpg",
+      "path": "https://www.grey.com/news/grey-malaysia-wins-celcomdigi-brand-account"
+    },
+    {
+      "title": "Business + Creative Acumen: Conrad Persons Elevated to Grey London CEO",
+      "excerpt": "Building on the success of 2024, which saw Grey London outmaneuver top-tier agencies to capture highly sought-after accounts such as Tourism Ireland and the Energy Networks Association, Conrad Persons is elevated from President to CEO of the studio. Reporting directly to Global CEO Laura Maness, she shared “Conrad is a unique blend of strategic thinker, entrepreneurial spirit, and insightful storyteller – precisely the multifaceted leader the current landscape demands.”",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/4tZNInhMwzu6hwyBIlarwQ/e27312ce5609333ae2842ea1705bb016/Conrad_Laura.png",
+      "path": "https://www.grey.com/conrad-persons-elevated-to-grey-london-ceo"
+    },
+    {
+      "title": "A New Era of Creative Excellence: Harsh Kapadia joins Grey India as CCO",
+      "excerpt": "\"Bringing together the proven leadership of Anusha Shetty with the creative vision of Harsh, whose experience spans the spectrum from cutting-edge AI-driven technology solutions to time-tested traditional advertising, sets Grey India up for an exciting future,” said Sarah Trombetta, Chief Executive Officer, Grey APAC.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/7zGrPG9h7pesNtDbgSueuL/991af8ed7ff597641206827727be15fb/Slide_16_9_-_1.jpg",
+      "path": "https://www.grey.com/harsh-kapadia-joins-grey-india-as-cco"
+    },
+    {
+      "title": "Creativity, Chemistry, and Growth: Bruno Rebelo to Grey Health NY CCO",
+      "excerpt": "\"2024 was a phenomenal year for Grey Health New York, and Bruno's arrival was a key catalyst for that success,\" shared Marc Lanouette, Global Chief Executive Officer of Grey Health about the appointment of Bruno Rebelo to Chief Creative Officer of Grey Health NY. \"From the moment he joined, his creative vision and leadership have been instrumental in elevating our culture, our work, and driving unprecedented results for both our clients and for the agency.\"",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6k5TdhgrJSSsX5GPkaACMC/f17c07d6f6aa9d32ab7219bd3650713c/Slide_16_9_-_1.png",
+      "path": "https://www.grey.com/bruno-rebelo-named-cco-of-grey-health-ny"
+    },
+    {
+      "title": "Grey Named One of America’s Greatest Workplaces for Women 2025 by Newsweek",
+      "excerpt": "\"Building an inclusive workplace is an ongoing journey,\" says Global CEO Laura Maness. \"While we're not where we want to be, this recognition fuels our drive to keep moving forward with purpose. We're proud to be acknowledged for our progress.\"",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/3XHBFR9Q3M4U6fU8v6HJm7/ffbd265f7291cf0a36ebf24a4da7ada9/Americas_Greatest_Workplaces_2025_WOMAN-02.png",
+      "path": "https://www.grey.com/news/newsweeks-americas-greatest-workplaces-for-women"
+    },
+    {
+      "title": "Pet Supplies Giant Fressnapf Taps Grey Germany to Drive Strategy and Creativity",
+      "excerpt": "Following a multi-stage pitch, Fressnapf | Maxi Zoo has named Grey Germany its lead agency, tasking them with strategy, creative development, and all cross-border awareness and marketing campaigns. Succeeding Serviceplan, Grey will chart the creative course for the pet supplies leader, which operates over 2,600 stores across 13 European countries, in all markets and channels.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2PxWRSPdylIqxoGvHQOA2S/edc719e0f3632499fbe3fe13db5e51d7/Grey-Germany-Fressnapf.jpeg",
+      "path": "https://www.grey.com/news/pet-supplies-giant-fressnapf-taps-grey-germany"
+    },
+    {
+      "title": "Future Forward: Agnes Fischer Joins Grey New York as CEO",
+      "excerpt": "Embarking on its next phase of growth, Grey has tapped Agnes Fischer CEO of its flagship studio. She was most recently President at BBH USA. Agnes’ appointment follows the recent news of RG Logan stepping into the role of Chief Strategy Officer and is teamed with Chief Creative Officer, Thiago Cruz. The trio forms Grey New York’s revitalized executive leadership team tasked with driving value for clients through creative excellence.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1xNbRiC7QEBm7oxKMKZNZJ/946360fffe29652f5cf544da3e504874/new_LM___AF.png",
+      "path": "https://www.grey.com/news/agnes-fischer-joins-grey-new-york-as-ceo"
+    },
+    {
+      "title": "Rough Cuts: Grey NY’s Thiago Cruz Hosts New Podcast with New York Festivals",
+      "excerpt": "Grey New York and New York Festivals are shaking things up with the launch of Rough Cuts with Thiago Cruz—a no-holds-barred podcast diving into the creative moments that make (or break) game-changing work.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/5LSkcHXrjMarMCknd1vvvo/abb4ce820a03be6c6fff1daafef26357/rough-cuts-with-thiago-cruz.jpeg",
+      "path": "https://www.grey.com/news/rough-cuts-with-thiago-cruz"
+    },
+    {
+      "title": "Corona Beer Taps Grey Brazil as Lead Agency",
+      "excerpt": "Grey has been selected as the lead agency for Corona in Brazil. This partnership builds on the agency’s much buzzed about “For Every Golden Moment” platform, created for Corona Cero, the first-ever global beer sponsor of the 2024 Olympic Games. This further demonstrates Grey’s expertise in bringing Famously Effective ideas to life for one of the most iconic global brands.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/2X5sQGiKAk4EeUpECzpYMc/e6f2af5ee6d49be106bf955939e5e783/For_every_moment_hero_image.jpg",
+      "path": "https://www.grey.com/news/corona-beer-taps-grey-brazil-as-lead-agency"
+    },
+    {
+      "title": "Creative Powerhouse Helen Rhodes Joins Grey London as CCO",
+      "excerpt": "One of London’s most successful creative minds, Helen Rhodes, has been appointed Chief Creative Officer of Grey London, where she will oversee the agency’s creative and design team, and work alongside leadership to shape the strategy and direction of the studio. Helen, who has won at every major international awards show, hails from BBH London.",
+      "image": "https://downloads.ctfassets.net/faxemkcsc5vu/2niyDXbwHTHz4uxhEmcLi4/5600a8cc2e282520cd4f27c0f40ca6c2/Conrad_Persons_Helen_Rhodes_crop.png",
+      "path": "https://www.grey.com/news/grey-london-new-cco"
+    },
+    {
+      "title": "Grey Rising: Accelerating Women Creatives",
+      "excerpt": "We’re pleased to announce the launch of Grey Rising, a global initiative that tackles the underrepresentation of women in senior creative roles. This program is designed to equip women-identifying creatives with the tools, mentorship, and opportunities to excel at the agency and lead across the industry.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6Uep9JSPuMwuea8IW5Mwpl/179b9255ee188d4b30be96d56aad233c/Screenshot_2025-01-17_at_16.34.20.png",
+      "path": "https://www.grey.com/news/grey-rising"
+    },
+    {
+      "title": "Tourism Ireland Names Grey Global Creative Partner",
+      "excerpt": "After a competitive review, Tourism Ireland has appointed Grey to develop its global creative work. Tourism Ireland’s role is to grow the value of overseas tourism to the island of Ireland by marketing effectively across 13+ overseas markets. The organisation was looking for an agency with a track record of influencing audiences across languages and markets, while working effectively also with partners on the island of Ireland.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/4OLAUkkGfmCJ3tYAZRw4hZ/81c49643cc53ee78fef1ce26274d586c/Yourparagraphtext_35_.png",
+      "path": "https://www.grey.com/news/tourism-ireland-names-grey-global-creative-partner"
+    },
+    {
+      "title": "Industry Leader RG Logan Joins Grey NY as CSO",
+      "excerpt": "Grey New York is closing out 2024 with a bang, with the appointment of RG Logan as Chief Strategy Officer, effective November 18. RG arrives with a stellar reputation for brand innovation, having led the iconic Truth campaign, which was hailed as one of the top 10 most influential campaigns of the 21st century. He’s ready to steer strategy for clients including Applebee’s, Modelo, Haleon, Las Vegas Convention and Visitors Authority, and more.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1uOnVYgEAMBk88RkFebpJK/40d109db0e8f60f8d780c810405260ed/_D3A1243_v2.jpg",
+      "path": "https://www.grey.com/news/strategy-superstar-rg-logan-joins-grey-ny-as-cso"
+    },
+    {
+      "title": "Grey Supercharges Creative Excellence with Emma Tonetti",
+      "excerpt": "Grey has strengthened its Global Creative Leadership Team by adding former Global Operations Director at JOAN, Emma Tonetti, as Global Head of Creative Management. Additionally, Grey LATAM’s Chief Reputation Officer, Florencia Kessler, has been promoted to the new role of Global Creative Reputation Partner.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/3KpgXI3yp0nRSnUHWxVj4V/19a3f301b86ebb892ecba49efb289947/E_TONETTI__1_.png",
+      "path": "https://www.grey.com/news/grey-global-creative-management-leader-emma-tonetti"
+    },
+    {
+      "title": "Circus Grey Celebrated by LIA as Global Design Company of the Year",
+      "excerpt": "The London International Awards (LIA), one of the world’s most prestigious Global Award Shows, and part of the WARC Creative 100 Rankings, in its tradition of a total focus on creativity, revealed its 2024 Global of the Year winners – with Circus Grey, Peru, taking top honors as Global Design Company of the Year.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/560YzjJrfoR4BhfUnPlzaR/6f6a6c14e74da49736d493c24840a0e3/POST_LIA-06.png",
+      "path": "https://www.grey.com/news/circus-grey-lia-global-design-company-of-the-year"
+    },
+    {
+      "title": "Grey Argentina Adds Visionary Leader to Drive Transformation",
+      "excerpt": "A transformative force in the Latin American advertising landscape, Carolina Bruzzone joins Grey Argentina as Chief Strategy and Marketing Officer. She is known for dramatically enhancing the effectiveness of the agencies she's led and brings a proven track record of strategic success to her new role.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/6JRRyzKxkSQ8nc6QsUrdxr/96d240c39fad5fda20bed01a07c69cdd/Foto_Caro_Bruzzone.jpg",
+      "path": "https://www.grey.com/news/grey-argentina-adds-visionary-leader"
+    },
+    {
+      "title": "Grey New York’s ACD Danae Nunez Wins AD ART SHOW Specialty Clio Award",
+      "excerpt": "MvVO ART , the creator of the AD ART SHOW and a leader in innovative platforms for emerging artists, proudly announced the winners of the 7th edition of AD ART SHOW at an exclusive reception at OUTFRONT Media in New York City on October 17th.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1DedqyTMg2LlNck7nTAnWd/fb7978275c791be35dd1796ba3e746d9/Image__2_.jpeg",
+      "path": "https://www.grey.com/news/acd-danae-nunez-wins-ad-art-show-specialty-clio-award"
+    },
+    {
+      "title": "Grey Strengthens Global Data Strategy Practice Driving Value for Clients",
+      "excerpt": "To further strengthen and develop Grey’s data strategy practice to drive value for clients, Grey has announced the promotion of Beth Rolfs to Global Chief Data Officer. With a focus on integrating standard practices around new technologies, including applied and generative AI, Beth will help to streamline processes and improve efficiency, decision-making, and campaign success.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/1uzZvTImie0PSKSKDowzXc/a6384f52b5836e4f7ec5853a95b29569/Beth_Rolfs.png",
+      "path": "https://www.grey.com/news/beth-rolfs-elevated-to-global-chief-data-officer"
+    },
+    {
+      "title": "Grey Grabs the Spotlight at 2024 Cannes Lions International Festival",
+      "excerpt": "At the 2024 Cannes Lions International Festival of Creativity, Grey was honoured with a Grand Prix and 6 Gold Lions at the esteemed ceremony. Grey’s total metal count also includes 4 Silver and 6 Bronzes, for a final 17 Lions.",
+      "image": "https://images.ctfassets.net/faxemkcsc5vu/21eCcZcW6l7eyFHaAMV2rr/2f57acd82f68c905d8ff7530e72b1815/cannes24_web.png",
+      "path": "https://www.grey.com/news/grey-honoured-with-a-grand-prix-and-6-gold-cannes-lions"
+    }
+  ],
+  "locations": {
+    "headline": "Here We Are",
+    "regions": [
+      {
+        "title": "North America",
+        "offices": [
+          {
+            "name": "New York",
+            "lines": [
+              "3 World Trade Center",
+              "175 Greenwich Street, Floor 31",
+              "New York, NY 10007, United States",
+              "+1 212 546 2000"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/2SyTNEMFNyMfdbySpXg7tr/e0bdab8147c00bc58b83d087ddcf0685/BW_3_wtc-3691.jpg",
+            "path": "https://www.grey.com/locations/new-york"
+          },
+          {
+            "name": "Chicago",
+            "lines": [
+              "333 N Green St",
+              "Chicago, IL 60607, United States"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/4bNbrsc81TjpEcCtMJ7Nyc/aed83d2630e058c188cee05d959f0f6a/guillaume-issaly-IKxQw1q19C8-unsplash.jpg",
+            "path": "https://www.grey.com/locations/chicago"
+          },
+          {
+            "name": "Midwest",
+            "lines": [
+              "302 W. Third Street Suite 900",
+              "Cincinnati, OH 45202, United States",
+              "+1 513 381 1380"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/4ELqgoWN60OHvSMrurMNKo/46dd6578fd241ca649b7f04a81390b14/Midwest.png",
+            "path": "https://www.grey.com/locations/midwest"
+          },
+          {
+            "name": "Canada",
+            "lines": [
+              "155 Queens Quay E",
+              "Toronto, Ontario M5A 0W4, Canada",
+              "+1 416-486-0700"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/6FgFsWvIk6p01UyFk5GRDN/e9016bcd6056f9030bc22fc0e160b64c/canada_toronto_V2.jpg",
+            "path": "https://www.grey.com/locations/canada"
+          }
+        ]
+      },
+      {
+        "title": "Europe",
+        "offices": [
+          {
+            "name": "United Kingdom",
+            "lines": [
+              "2 Southwark Bridge Road",
+              "London, SE1 9HS, United Kingdom",
+              "+44 (0) 203 116 4700"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/62oM2jAnBIdQnIfIDuYV6n/167f3c62df2a98754a7b588eb6274346/alisha-friedli-GVjyZHU-WDM-unsplash.jpg",
+            "path": "https://www.grey.com/locations/united-kingdom"
+          },
+          {
+            "name": "Germany",
+            "lines": [
+              "Düsseldorf | Hamburg"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/1RhlwCSQFRPuERHjwAgePW/6cc90a8eaf7bddaccb1b8af3b330e103/Opt_2.jpg",
+            "path": "https://www.grey.com/locations/germany"
+          },
+          {
+            "name": "France",
+            "lines": [
+              "145-149 Rue Anatole France",
+              "Levallois-Perret",
+              "Paris, 92300, France",
+              "+33 1 70 92 88 10"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/4LfwVssbQievRtk9VNYSGQ/f050295119f2ccfa7568bba5cc98ae71/louis-pellissier-Paris.jpg",
+            "path": "https://www.grey.com/locations/france"
+          },
+          {
+            "name": "Finland",
+            "lines": [
+              "John Stenbergin ranta 2",
+              "Helsinki, 00530, Finland",
+              "+358 40 085 4443"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/6pDPpJkXs4wE7bVfPNk7vb/3dd162a35b76a945ce96918805342711/Finland.jpg",
+            "path": "https://www.grey.com/locations/finland"
+          },
+          {
+            "name": "Croatia",
+            "lines": [
+              "Nova Ves 17",
+              "Zagreb, 10000, Croatia",
+              "+38 501 606 4000"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/1mnanqfh7l8CXxiOmwj8sB/2614f4844d063a86b1260b3d030e24a9/Croatia.png",
+            "path": "https://www.grey.com/locations/croatia"
+          },
+          {
+            "name": "Denmark",
+            "lines": [
+              "Rosenborggade 15",
+              "1130 København, DK–1101, Denmark",
+              "+45 3330 0100"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/621zRjViY35RyWqmjmmJtC/519b861580310f9411ca7c3211e3371a/Screenshot_2022-06-30_at_11.40_16.png",
+            "path": "https://www.grey.com/locations/denmark"
+          },
+          {
+            "name": "Italy",
+            "lines": [
+              "Via Morimondo 26",
+              "Milan, 20143, Italy",
+              "+39 02 36167500"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/7kCvhaJvzoyq685HXcf4Ti/5a7535cadd223f5f58b921fa6458b8a7/Italy.png",
+            "path": "https://www.grey.com/locations/italy"
+          },
+          {
+            "name": "Poland",
+            "lines": [
+              "Plac Konesera 11",
+              "Warsaw, Poland",
+              "+48 22 250 09 00"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/2CA2EIN41fVTACZLNIXEIK/b7e857ba7756fcb3c119eb83e1fd75f4/Poland.png",
+            "path": "https://www.grey.com/locations/poland"
+          }
+        ]
+      },
+      {
+        "title": "Asia-Pacific",
+        "offices": [
+          {
+            "name": "India ",
+            "lines": [
+              "Bangalore | Delhi | Mumbai"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/lSWC2ak5QLmsMrw40sbY8/6531d3bfd53ca910676b4dc45db67f0f/India_.png",
+            "path": "https://www.grey.com/locations/india"
+          },
+          {
+            "name": "Bangladesh",
+            "lines": [
+              "Floor 5, House 6, Road 137, Block SE(D), Gulshan 1",
+              "Dhaka, 1212, Bangladesh",
+              "+8802 55044825"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/6MgcAfCXbc0JIFxBNvw3Z2/311f6ffb1c83f586970ac3d5e1e10081/Bangladesh.png",
+            "path": "https://www.grey.com/locations/bangladesh"
+          },
+          {
+            "name": "Pakistan",
+            "lines": [
+              "5th Floor, 11-C, Al-Murtaza Comm. Lane 2, Phase VIII, DHA",
+              "Karachi, Pakistan",
+              "+9221351716416"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/7bs6mzIt1h4LSNV8ElPmGs/5ea3bc6dab54946492b8da02d663286b/Pakistan.png",
+            "path": "https://www.grey.com/locations/pakistan"
+          },
+          {
+            "name": "Singapore",
+            "lines": [
+              "One George St",
+              "#09-01, 049145, Singapore",
+              "+65 6511 7600"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/5WCU4AKnHWXl23CnvQWufc/e3c9a54202cf491bef607aaf10056f6d/Singapore.png",
+            "path": "https://www.grey.com/locations/singapore"
+          },
+          {
+            "name": "Thailand",
+            "lines": [
+              "1028/5 Phongamon Building, Floors 1-2, Rama 4 Road, Khwaeng Thungmahamek, Khet Sathorn",
+              "Bangkok, 10120, Thailand",
+              "+66 02 119 0200"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/47AcjfdExa0lDsHtYiaTtu/90b9751ed541de23ad458df4124ed7a7/Thailand.png",
+            "path": "https://www.grey.com/locations/thailand"
+          },
+          {
+            "name": "Malaysia",
+            "lines": [
+              "Common Ground Level 17, The Bousteador, No.10 Jalan PJU 7/6, Mutiara Damansara",
+              "Selangor, 47800 Petaling Jaya, Malaysia",
+              "+603 7669 0200"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/3ETIsRweoQBKEUL1DLsoG9/5fdbe9669ff1738a514c1cfb5c0b3544/Malaysia.png",
+            "path": "https://www.grey.com/locations/malaysia"
+          },
+          {
+            "name": "Japan",
+            "lines": [
+              "Hiroo MTR Building B1F, 2-36-13 Ebisu, Shibuya-ku",
+              "Tokyo, 150-0013, Japan",
+              "+81 3 5423 1711"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/3LoBcTMVmcl8oSFR4fRC1G/9e1ea6ec44000988bbf4f610807eb8d1/Japan.png",
+            "path": "https://www.grey.com/locations/japan"
+          },
+          {
+            "name": "Korea",
+            "lines": [
+              "3~5F, ICON Building 12, Eonju-ro 152-gil, Gangnam-gu",
+              "Seoul, 06021, Korea",
+              "+82 2 3015 5800"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/73qk3FmGiov8dIOJ3SJGAh/6ee9b25139ea4141f6161f5c94d05fe5/Korea.png",
+            "path": "https://www.grey.com/locations/korea"
+          },
+          {
+            "name": "China",
+            "lines": [
+              "Beijing | Shanghai | Guangzhou"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/AtgR7xUOzPmgzxIrEw5YR/8ce287d50d366c7ae4201679547e5c17/China.png",
+            "path": "https://www.grey.com/locations/china"
+          },
+          {
+            "name": "Hong Kong",
+            "lines": [
+              "11/F, K11 Atelier’s King’s Road, 728 King’s Road",
+              "Quarry Bay, Hong Kong",
+              "+852 3703 8615"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/3zwaMx1T2nrFAVxmAOjjvB/0d43f8280d9c5f0bdffee1cd45d8be3d/Screenshot_2022-06-30_at_11.40_16-1.png",
+            "path": "https://www.grey.com/locations/hong-kong"
+          }
+        ]
+      },
+      {
+        "title": "Latin America",
+        "offices": [
+          {
+            "name": "Brazil",
+            "lines": [
+              "Av. Mofarrej, 971, Vila Leopoldina",
+              "São Paulo, 05311-000, Brazil",
+              "+55 11 5503-8900"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/S24knjRgIWIGeSuwhDCmN/6639c2d9d8318265dbf1ac7388cb0a09/Brazil.png",
+            "path": "https://www.grey.com/locations/brazil"
+          },
+          {
+            "name": "Argentina",
+            "lines": [
+              "Franklin D. Roosevelt 1740, 5th Floor,",
+              "Buenos Aires, C1406FMB, Argentina",
+              "+54 11 5555 1800"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/7p2bC987iEnQc2Z2Y28mfT/c33ecb5790b2272b2ba0c2811e30eb06/Screenshot_2022-06-30_at_11.40_3-2.png",
+            "path": "https://www.grey.com/locations/argentina"
+          },
+          {
+            "name": "Mexico",
+            "lines": [
+              "Punto Polanco. Lago Alberto 319, Piso 16. Granada.",
+              "Miguel Hidalgo, 11520, CDMX, México",
+              "+52 55 5350 3700"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/3kjcYTuHVODCemLvGlJhJX/31dd07fb18bfea7fb189b87bda794586/Mexico.png",
+            "path": "https://www.grey.com/locations/mexico"
+          },
+          {
+            "name": "Peru",
+            "lines": [
+              "Av. Pedro de Osma 205",
+              "Lima, 15063, Peru",
+              "+511 6179292"
+            ],
+            "image": "https://images.ctfassets.net/faxemkcsc5vu/7p5lZKuTTn00B6Mrn8UVBt/b34ddfe7396a69f7d736acee62505b2e/Peru.png",
+            "path": "https://www.grey.com/locations/peru"
+          }
+        ]
+      }
+    ]
+  },
+  "podcasts": {
+    "logo": "https://images.ctfassets.net/faxemkcsc5vu/2bTN1XFU7IIi6BeZCOF4EH/eeb973412d280b07b8b8ea366781c56e/GREY_MATTER_1080X1080_01.png",
+    "spotifyLink": "https://open.spotify.com/show/1rFM18xbbs7lRop9JEdaWp",
+    "appleLink": "https://podcasts.apple.com/us/podcast/grey-matter-a-podcast-about-ideas/id1476735982?uo=4",
+    "rssUrl": "https://feeds.transistor.fm/grey-matter-a-podcast-about-ideas",
+    "episodes": [
+      {
+        "number": 58,
+        "title": "What feeds Chef Akshay Bhardwaj's passion?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-feeds-Chef-Akshay-Bhardwajs-passion-e390htb",
+        "descriptionPlain": "For Executive Chef Akshay Bhardwaj, becoming a chef was not always the plan. It took perseverance and a little bit of defiance for him to rise in the ranks and become the Executive Chef of Junoon, which at one time was the only Michelin Star restaurant in New York City serving Indian food. In this episode, you will hear about Akshay’s path to cooking, how he approaches collaborations with other chefs, and where he finds inspiration for dishes when traveling. Grey Interviewer: Samantha Geller, Senior Project Manager and Podcast Producer"
+      },
+      {
+        "number": 57,
+        "title": "Where does Cyndie Spiegel find Microjoys?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Where-does-Cyndie-Spiegel-find-Microjoys-e390hv3",
+        "descriptionPlain": "For A Year of Positive Thinking author Cyndie Spiegel, writing her second book came after a year of personal struggle and loss in 2020. Yet, she still found moments of joy and documented them in her second book, Microjoys: Finding Hope (Especially) When Life Is Not Okay , a collection of personal essays designed to help us find joy wherever we can. In this episode, you will hear about Cyndie’s journey to writing the book, the lessons she learned from the people closest to her, and a recent micro joy in her life. Grey Interviewer: Sara Worthington, Executive Creative Director, Grey New York"
+      },
+      {
+        "number": 56,
+        "title": "What led Arielle Assouline-Lichten to build Slash Objects?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-led-Arielle-Assouline-Lichten-to-build-Slash-Objects-e390hul",
+        "descriptionPlain": "Arielle Assouline-Lichten’s dream was to create a furniture design studio that creates social change - that’s what led her to start Slash Objects, an award-winning, sustainable design studio. Arielle is a Best of NYC x Design winner, and she was a finalist contestant on the HBO Max show Ellen’s Next Great Designer. In this episode, you will hear Arielle’s story of how she brought together her interests, architecture background, and entrepreneurial spirit to create Slash Objects. She discusses how the work she creates has a journey and a life of its own. Grey Interviewer: Thiago Cruz, Grey New York’s Chief Creative Officer"
+      },
+      {
+        "number": 55,
+        "title": "Why did Rob Herting press play on QCODE?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Why-did-Rob-Herting-press-play-on-QCODE-e390huc",
+        "descriptionPlain": "Rob Herting saw a void within the podcast space where nobody else did – cinematic quality audio fiction. After leaving his job at a talent agency, he became the CEO and founder of QCODE, an audio-based production studio, creating a new outlet for creatives to tell their stories. QCODE is behind multiple critically acclaimed fiction podcasts like Blackout with Rami Malek, Carrier with Cynthia Erivo, Dirty Diana with Demi Moore, and Hank the Cowdog with Matthew McConaughey, to name a few. In this episode, you will hear Rob’s story of leaving a job with a dream to make a new outlet for creatives and why he decided to dive into the podcast space. His story will inspire anyone trying to start a business, enter podcast production, or just looking for their next fictional podcast series. Grey Interviewer: Jason Kahner, Grey’s Chief Client Officer"
+      },
+      {
+        "number": 54,
+        "title": "How did Dr. Zach Thomas grow his channel on YouTube?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Dr--Zach-Thomas-grow-his-channel-on-YouTube-e390hvd",
+        "descriptionPlain": "For Zach Thomas, the idea of doing anything other than teaching tennis seemed out of reach while studying at Slippery Rock University in Pennsylvania. Now Zach is a podiatrist who runs the YouTube channel Foot Doctor Zach, where he reviews the latest performance shoe tech and breaks down the most advanced shoes for athletes. In this episode, you will hear from Zach about what interested him in studying podiatry, why he chose to review shoes, and what he learned when starting a business on YouTube. Zach’s channel has over 100,000 subscribers who watch his weekly videos where he dissects sneakers to match the best athletes with the best shoes for their feet. Grey Interviewer: Thiago Cruz, Grey New York’s Chief Creative Officer"
+      },
+      {
+        "number": 53,
+        "title": "What did Nathalie Walton expect with Expectful?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-did-Nathalie-Walton-expect-with-Expectful-e390hup",
+        "descriptionPlain": "Nathalie Walton found that there were not enough resources devoted to the mental health of expecting mothers. After a serious health scare during her pregnancy, Nathalie turned to the Expecftul app to find peace of mind. The app moved her so much that she became an advisor and eventually a late-stage co-founder and CEO. She helped transform Expectful from a mediation app to a powerful tool for parents and soon-to-be parents. In this episode, you will hear Nathalie’s stories of approaching parenthood, being a business leader, and the strategies she and her husband used to navigate the process. Her candid story is the perfect listen for current and soon-to-be parents. Grey Interviewer: Elizabeth Gilchrist, EVP, Account Director, and winner of the She Runs It Working Mother of the Year 2023 (New Moms Category)"
+      },
+      {
+        "number": 52,
+        "title": "How did Neil Tanna find time for Howbout?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Neil-Tanna-find-time-for-Howbout-e390huf",
+        "descriptionPlain": "For law school graduate Neil Tanna, the idea of losing touch with his university friends was heartbreaking. Motivated by the excitement of creating and keeping connections, Neil and his team made a UK-based social platform called Howbout. Howbout raises the question, “Why is it easier to schedule a meeting with your boss than it is to schedule a drink with your best friends?” The app brings scheduling, planning, and chatting together into one place to take the hassle out of getting together with friends. On this episode, Neil will discuss what influenced the idea for Howbout, the leadership practices he is proud of, and how he views the growth of the app. Grey Interviewer: Bee Pahnke, Grey London’s Head of Voice"
+      },
+      {
+        "number": 51,
+        "title": "How did Gavin McIntyre grow Ecovative from the ground up?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Gavin-McIntyre-grow-Ecovative-from-the-ground-up-e390hv9",
+        "descriptionPlain": "For Gavin McIntyre, what started as a classroom project and a passion for helping the planet, is now an audacious goal of ending the world's dependency on plastics through the mycelium materials company, Ecovative. Gavin and his partner Eben Bayer have used mycelium — aka fungi — to create leather alternatives, a meat substitute product, and a fully compostable packaging foam. Based in Green Island, NY, Ecovative has been named a TimesUnion Top Work Place three years in a row. On this episode, Gavin will discuss what influences Ecovative, including what he learned from his mother, a biologist, and his father, a physicist. Grey Interviewer: Iman Omar, Associate Creative Director"
+      },
+      {
+        "number": 50,
+        "title": "What made The Sloomoo Institute stick?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-made-The-Sloomoo-Institute-stick-e390huu",
+        "descriptionPlain": "For co-founders and longtime friends, Karen Rabinovitz and Sara Schiller, the idea of creating a place for play was always at the tip of their fingers. Together, they found joy and healing during difficult times in an unexpected way – by playing with SLIME. They partnered with artists, architects, and advocates to bring the concept of a sensory playground to the world through The Sloomoo Institute. Based in SoHo in New York City, with locations in Chicago and Atlanta, this unique space is committed to neurodiversity, mental health, and of course, fun. On this episode, you will hear Karen and Sara tell their story of building The Sloomoo Institute and how they found their happy place in the magic of slime. Grey Interviewer: Joey Scarillo"
+      },
+      {
+        "number": 49,
+        "title": "What set the stage for Jessie Mueller?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-set-the-stage-for-Jessie-Mueller-e390hv2",
+        "descriptionPlain": "Jessie Mueller’s Broadway career started in 2011 with the revival of On a Clear Day You Can See Forever , where she starred alongside Harry Connick Jr. She then went on to star in Beautiful: The Carole King Musical as Carole King and in Waitress as the lead Jenna. But before that, she was a theatre kid growing up outside Chicago and a student at Syracuse University. On our season 4 premiere, we will hear Jessie’s story of coming up in the business, what she learned along the way, and where she sees the industry moving forward. Grey Interviewer: Joey Scarillo"
+      },
+      {
+        "number": 48,
+        "title": "Season 4 Trailer",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Season-4-Trailer-e390ht0",
+        "descriptionPlain": "New episodes of Grey Matter: A Podcast About Ideas are launching soon and will release every other Tuesday. The Webby Award winning podcast is back with new guests, a new logo, and a new host! Follow to hear firsthand, how the best ideas were thought up from some of the most innovative creators, founder, and inventors."
+      },
+      {
+        "number": 47,
+        "title": "Six Feet Over: Shared Perspectives From The Time We Went Away",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Six-Feet-Over-Shared-Perspectives-From-The-Time-We-Went-Away-e390hv5",
+        "descriptionPlain": "This week, we're sharing a special episode of Grey Matter, featuring an idea from within the walls of Grey, a project called Six Feet Over. Six Feet Over is a collection of almost 400 artifacts, images, objects and stories submitted by the folks of Grey NY. It was designed to introduce and reintroduce us to each other by spotlighting our individual journeys and the strange moment in history: the Covid pandemic through the lens of humanity and creativity. Together it creates a work of art that captures our lives since March of 2020 and shares perspectives of the time we went away. To see more of this project, go to the @grey Instagram feed and Six Feet Over highlights. Host: John Patroulis, Global Creative Chairman and President, Creative Business Special thanks to Denise O’Bleness, Justine Armour, Joey Scarillo, Danielle Hunt"
+      },
+      {
+        "number": 46,
+        "title": "How did Christie Horvath unleash Wagmo?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Christie-Horvath-unleash-Wagmo-e390hts",
+        "descriptionPlain": "Wagmo is a pet insurance brand founded by serious dog-lover Christie Horvath. She learned just how important pet insurance could be after her dog was sadly diagnosed with a brain tumor. On this episode, we will discover how Christie went from business student to business owner with the support of her friends, family, and of course, her dogs! Grey Interviewer: Carly Quellman, Associate Creative Director"
+      },
+      {
+        "number": 45,
+        "title": "Who inspires Alyse Nelson of Vital Voices?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Who-inspires-Alyse-Nelson-of-Vital-Voices-e390hv8",
+        "descriptionPlain": "Alyse Nelson has spent her entire career empowering women worldwide. Her non-profit, The Vital Voices Global Partnership, has served more than 18,000 women leaders across 182 countries. On this episode, Alyse speaks with Grey New York Chief Creative Officer Justine Armour about how women lead and what they've learned from women leaders around the world. Grey Interviewer: Justine Armour, Chief Creative Officer of Grey New York"
+      },
+      {
+        "number": 44,
+        "title": "Where did Dennis Crowley pioneer FourSquare?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Where-did-Dennis-Crowley-pioneer-FourSquare-e390hv6",
+        "descriptionPlain": "Dennis Crowley created the first community that integrated social media with the real world when he invented Foursquare, the location-based technology company. On this episode of Grey Matter, we will pinpoint how this idea was crafted, track down its origins, and hear exactly where the mayor-badge was cooked up. Interviewer: Kenny Gold"
+      },
+      {
+        "number": 43,
+        "title": "Why is connection key for Susan McPherson?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Why-is-connection-key-for-Susan-McPherson-e390hud",
+        "descriptionPlain": "Susan McPherson was not expecting to spend a year in isolation when she sat down to write the book, The Lost Art of Connecting. Susan leads McPherson Strategies, is an angel investor and corporate responsibility expert, but is truly a connector at her core. On this episode, you'll hear about the foundations of Susan's book, how she learned to deepen connections with others at a young age, and how that translated into a life and career in connecting others. Grey Interviewer: Holly Williams, Global Planning Director"
+      },
+      {
+        "number": 42,
+        "title": "How did Jim McKelvey capitalize with Square?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Jim-McKelvey-capitalize-with-Square-e390hut",
+        "descriptionPlain": "When Jim McKelvey invented the Square card reader with Twitter Founder Jack Dorsey, he had no idea he was headed into a David vs. Goliath battle with Amazon that he would ultimately win! On this episode, you will hear what drove Jim to make payment simpler, how he and the team conquered competition, and what he's up to next. After listening to the podcast, you can read more in Jim’s new book, The Innovation Stack. Grey Interviewer: Kenny Gold, Executive Director, Social"
+      },
+      {
+        "number": 41,
+        "title": "How is Tiana Epps-Johnson modernizing U.S. elections?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-is-Tiana-Epps-Johnson-modernizing-U-S--elections-e390hus",
+        "descriptionPlain": "Tiana Epps-Johnson and her co-founders had an ambitious and critical goal; to simplify and modernize U.S. elections. To reach this goal, they established The Center for Tech and Civic Life (CTCL), whose data has been accessed over 250 million times by U.S. voters through partnerships with local election committees, Google, and Facebook. On this podcast, you'll hear from Tiana, the co-founder and Executive Director of CTCL, about the organizations' humble beginnings, how its work became crucial to fight election misinformation, and how Tiana's courage for this work has been passed down through generations. Grey Interviewer: Joey Scarillo, Senior Project Manager &amp; Podcast Producer"
+      },
+      {
+        "number": 40,
+        "title": "How did Sadie Kurzban kick start 305 Fitness?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Sadie-Kurzban-kick-start-305-Fitness-e390hun",
+        "descriptionPlain": "It's no wonder 305 Fitness founder and CEO Sadie Kurban has been called \"the next fitness cult leader\" by the New York Observer. With seven studios across New York, Washington D.C., and Boston; and 1,000 certified instructors teaching worldwide, 305 Fitness has been seen by over 100,000 people and counting. On this week's podcast, Sadie shares the story behind 305 Fitness and how she built an entire community around feeling good. Grey Interviewer: Carly Quellman, Associate Creative Director Sadie and her team are offering one free month of 305 Fitness to all Grey Matter listeners: http://305fitness.info/greymatter"
+      },
+      {
+        "number": 39,
+        "title": "How did April Walker refashion Walker Wear?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-April-Walker-refashion-Walker-Wear-e390hv7",
+        "descriptionPlain": "April Walker became a legend in the hip-hop fashion scene, as the first woman to break into the industry when she opened her store, Fashion in Effect in the late 80’s. Over the decades, she dressed icons like Biggie, Tupac, Jay Z, and Mike Tyson in her Walker Wear brand. In the process, she herself became an icon. For our season 3 premiere we’ll hear April’s story, from her inspirations growing up in Brooklyn to the next generation she is inspiring now. Grey Interviewer: John Patroulis, Worldwide Chief Creative Officer"
+      },
+      {
+        "number": 38,
+        "title": "Grey Matter Season 3 Coming Soon!",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Grey-Matter-Season-3-Coming-Soon-e390hsu",
+        "descriptionPlain": "New episodes of Grey Matter: A Podcast About Ideas are launching on Tuesday June 15th and release every other Tuesday. Follow to hear firsthand, how the best ideas were thought up from some of the most innovative creators, founder, and inventors."
+      },
+      {
+        "number": 37,
+        "title": "The Pillars of Creativity: Audacity",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/The-Pillars-of-Creativity-Audacity-e390huv",
+        "descriptionPlain": "This episode wraps up our deep dive into the question “What makes a good idea a great one?” We’re deep-diving into the creative criteria we hold our work to at Grey. This week is “Audacity.” On this episode host John Patroulis, the creative mind behind the criteria, and Grey New York’s Chief Creative Officer, Justine Amour, articulate a definition for what audacity means in creativity as they share personal stories from their journey to creative leaders."
+      },
+      {
+        "number": 36,
+        "title": "The Pillars of Creativity: Craft",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/The-Pillars-of-Creativity-Craft-e390hto",
+        "descriptionPlain": "We are continuing to investigate “What makes a good idea a great one?” through the creative criteria we hold our work to at Grey. This week is “Craft.” On this episode host of the show, John Patroulis chats with season two guest Keith Cartwright, the co-founder of the creative collective Saturday Morning , and founder/CCO of Cartwright, a West-coast agency recently launched in partnership with Grey, about how craft has played a huge part in his work. John and Keith also reminisce about their time together as creative partners early in their careers."
+      },
+      {
+        "number": 35,
+        "title": "The Pillars of Creativity: Simplicity",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/The-Pillars-of-Creativity-Simplicity-e390hu1",
+        "descriptionPlain": "“What makes a good idea a great one?” is the question we will continue to explore on this bonus series. We’re discussing the creative criteria we hold our work to at Grey. This week is “Simplicity.” On this episode, producer Joey Scarillo chats with season two guest Greg Marsh, founder and CEO of Keyme, about how simplicity has factored into his work. He also tells us how the company has adapted during the pandemic."
+      },
+      {
+        "number": 34,
+        "title": "The Pillars of Creativity: Surprising but Feels Inevitable",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/The-Pillars-of-Creativity-Surprising-but-Feels-Inevitable-e390hu5",
+        "descriptionPlain": "Welcome to Grey Matter’s first bonus series, exploring the question: “What makes a good idea a great one?” We’re diving into some of the ideas we’ve featured in the podcast, through the lens of the creative criteria we hold our work to at Grey. First is “Surprising but Feels Inevitable.” On this episode, producer Joey Scarillo chats with former Grey Matter co-producer Graham Nolan about the inevitability of starting this very podcast in 2019. Think of it as Grey Matter’s origin story."
+      },
+      {
+        "number": 33,
+        "title": "Listen now to #5Things",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Listen-now-to-5Things-e390hsq",
+        "descriptionPlain": "Check out #5Things from Grey, a weekly round table panel that covers the latest in social media. Check it out wherever you get podcasts. Spotify Apple Podcasts Stitcher Breaker Google Podcasts Overcast Pocket Casts RadioPublic"
+      },
+      {
+        "number": 32,
+        "title": "Why did George Dawes Green start The Moth?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Why-did-George-Dawes-Green-start-The-Moth-e390htd",
+        "descriptionPlain": "When George Dawes Green hosted his first Moth event, before even calling it The Moth, the event, in his words, was “horrible.” Through determination and a passion for the telling a good story, George grew the idea into a global platform to celebrate raconteurs. In our Season 2 finale, we will hear George’s story and learn the inspiration behind the international storytelling platform, The Moth. Grey Interviewer: John Patroulis Please participate in our Grey Podcasts survey, it can be found HERE , we’d love to hear your thoughts. After you listen to Grey Matter, check out another podcast from Grey: The #5Things, a weekly deep dive into culture through the lens of social media. You can find #5Things on Apple , Spotify , or wherever you find this podcast."
+      },
+      {
+        "number": 31,
+        "title": "What moved Jackie Carter to invent the Not Reaching! pouch?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-moved-Jackie-Carter-to-invent-the-Not-Reaching--pouch-e390hu4",
+        "descriptionPlain": "When Jackie Carter earned her three post graduate degrees in her 40’s, all she wanted to do was help people. After the brutal murder of Philando Castile in 2016, her mission became clear – make traffic stops safer for black motorists and police officers alike. She is the inventor of the Not Reaching pouch, and on this episode, you will hear her inspirational story. References: Not Reaching | The Alliance for Safe Traffic Stops Grey Interviewer: Lori Bullock"
+      },
+      {
+        "number": 30,
+        "title": "How did Unsplash change the creative process?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Unsplash-change-the-creative-process-e390ht7",
+        "descriptionPlain": "When Mikael Cho and Stephanie Liverani created Unsplash they had no idea how quickly they would find success – seemingly overnight. Unsplash fills the unmet needs of creative professionals – a free and culturally aware, current solution for people who are simply trying to make cool things. Grey Interviewer: Kenny Gold Link to Mikael's OMG album on Unsplash"
+      },
+      {
+        "number": 29,
+        "title": "What motivated VC Chickering to write her first book?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-motivated-VC-Chickering-to-write-her-first-book-e390hva",
+        "descriptionPlain": "After navigating a painful divorce, VC Chickering used her personal experience to write her first novel, the humorous and racy, Nookietown . We’ll learn how she landed her first book deal, insight into her writing process, and the struggles between the creation of her first and second books. Grey Interviewer: Holly Williams Content Warning: This episode discussed adult themes and may not be suitable for children."
+      },
+      {
+        "number": 28,
+        "title": "Why did Keith Cartwright redefine Saturday Morning?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Why-did-Keith-Cartwright-redefine-Saturday-Morning-e390hv0",
+        "descriptionPlain": "In 2016, motivated by the deaths of Philando Castile and Eric Garner and many others, Keith Cartwright, and his collaborators, started the creative coalition, Saturday Morning. In this episode, you’ll hear what led Keith, one of Saturday Morning’s co-founders, to the many partnerships and creative endeavors that Saturday Morning takes on as an organization. We’ll also hear exclusively from Keith, Saturday Morning’s goals for the future. Grey Interviewer: Jhanell Biggs"
+      },
+      {
+        "number": 27,
+        "title": "How does Tal Zvi Nathanel keep things interesting at Showfields?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-does-Tal-Zvi-Nathanel-keep-things-interesting-at-Showfields-e390hue",
+        "descriptionPlain": "As a child, Tal Zvi Nathanel would look through the department store windows in New York City and be transported to a magical place. This passion for wonder and imagination led him to create Showfields, often called the Most Interesting Store in the World. Tal, the co-founder and CEO of Showfields, talks about how he and his team reimagined the shopping experience through the eyes of the customer using immersive experiences, great service, and discovery. Grey Interviewer: Kenny Gold"
+      },
+      {
+        "number": 26,
+        "title": "Has 2020 been what Great Good Fine Ok frontman Jon Sandler expected?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Has-2020-been-what-Great-Good-Fine-Ok-frontman-Jon-Sandler-expected-e390hu8",
+        "descriptionPlain": "When Jon Sandler started collaborating with his bandmate Luke Moellman, there was an instant musical chemistry that led them to start the band, Great Good Fine Ok. On this episode of Grey Matter, you'll hear from Jon, the band's lyricist and lead vocalist, learn the secrets of their success, and find out how Jon was feeling when he wrote the song \"2020.\" Grey Interviewer: Holly Williams"
+      },
+      {
+        "number": 25,
+        "title": "Where did Claudia Edelman find the inspiration for We Are All Human?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Where-did-Claudia-Edelman-find-the-inspiration-for-We-Are-All-Human-e390hu3",
+        "descriptionPlain": "For Claudia Edelman, advancing an agenda of diversity, equity, and inclusion for the Hispanic community can be traced back to her most-formative childhood experiences. In this episode, Claudia speaks about her vision for We Are All Human, the non-profit she founded; and discusses how important it is to talk about failure openly. Grey Interviewer: Karol Chang"
+      },
+      {
+        "number": 24,
+        "title": "What motivated Greg Marsh to open KeyMe?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-motivated-Greg-Marsh-to-open-KeyMe-e390ht4",
+        "descriptionPlain": "When Greg Marsh's wife was locked out of their apartment, the experience of calling a locksmith was so negative that it inspired Greg to innovate. In this episode, you'll hear the story that led him to KeyMe, a security technology company famous for its digital key printing kiosks in retail locations. Grey Interviewer: Dan Bennett"
+      },
+      {
+        "number": 23,
+        "title": "How did Dr. Shantanu Gaur blow up weight loss?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Dr--Shantanu-Gaur-blow-up-weight-loss-e390htg",
+        "descriptionPlain": "The challenge for Allurion Technologies co-founder, Dr Shantanu Gaur and his team was to invent a safe and inexpensive way for a gastric balloon to enter and exit the stomach. The solution was a true innovation in weight loss, the Elipse. You’ll hear how Dr. Gaur’s passion and perseverance led him to drop out of Harvard Medical School for a path of entrepreneurship. Grey Interviewer: Joey Scarillo"
+      },
+      {
+        "number": 22,
+        "title": "How does J. Ivy catch an idea?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-does-J--Ivy-catch-an-idea-e390hth",
+        "descriptionPlain": "J. Ivy is a poet, rapper, and spoken word artist whose creative journey began when a teacher assigned him to speak in front of a crowd. His love of language has led him down many paths, including Kanye West’s 2004 hit album, The College Dropout. You’ll learn what inspires J, what famous singer got their name from J, and you’ll get to hear him recite his own poetry live in the studio. Grey Interviewer: John Patroulis"
+      },
+      {
+        "number": 21,
+        "title": "How did Wesley Kang and Tanya Zhang find the right fit with Nimble Made?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-did-Wesley-Kang-and-Tanya-Zhang-find-the-right-fit-with-Nimble-Made-e390ht1",
+        "descriptionPlain": "Tanya Zhang and Wesley Kang are the co-founders of the men's fashion brand Nimble Made. They created a clothing brand focused on size inclusion for men needing a truly slim shirt. Hear how they launched from their apartment and what they learned on their road to entrepreneurship. Grey Interviewer: Karol Chang"
+      },
+      {
+        "number": 20,
+        "title": "What drove Sean McKenzie to the idea for Steereo?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-drove-Sean-McKenzie-to-the-idea-for-Steereo-e390ht2",
+        "descriptionPlain": "Steereo Co-Founder Sean McKenzie is driven by music. It’s a drive that’s led him to a one-of-a-kind business solution for ride-share app drivers. The Steereo app is a music discovery platform used by drivers and compensates them for streaming music to their passengers. Find out how Sean came up with ONE solution for problems spanning across multiple industries and how that dovetailed perfectly into a win/win for everyone. Grey Interviewer: Kenny Gold"
+      },
+      {
+        "number": 19,
+        "title": "Was Bracketology a layup for Joe Lunardi?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Was-Bracketology-a-layup-for-Joe-Lunardi-e390hui",
+        "descriptionPlain": "Joe Lunardi has had a lifelong passion for basketball. A passion that has led him to his career in Bracketology at ESPN. Each year, he projects the NCAA Men’s basketball tournament field. His work is a culmination of sports, stats analysis, and a deep understanding of the game. In this episode, we’ll hear all about what inspired and led to Joe’s position within the world of college basketball, as a bracketologist. Grey Interviewer: Joey Scarillo"
+      },
+      {
+        "number": 18,
+        "title": "What inspired Melody Henderson to start The Curly Girl Collective?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-inspired-Melody-Henderson-to-start-The-Curly-Girl-Collective-e390hu0",
+        "descriptionPlain": "Melody Henderson is a Brooklyn native, and the Creative Director, and co-founder of Curly Girl Collective. As the Creators of CURLFEST® – the largest natural beauty festival in the world, she and her co-founders are building a global community where women and girls of every shade, shape, and size can celebrate and be celebrated for who they are. In this episode, we’ll discover what inspired Melody Henderson to dream up such a powerful movement. Grey Interviewer: Holly Williams"
+      },
+      {
+        "number": 17,
+        "title": "Where did Loren Hammonds find the inspiration for Tribeca Immersive?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Where-did-Loren-Hammonds-find-the-inspiration-for-Tribeca-Immersive-e390htp",
+        "descriptionPlain": "Loren Hammonds is the Programmer of Feature Films and Immersive at Tribeca Film Festival. With over 15 years of experience in the film and entertainment industry, Loren oversees the curation of Virtual Arcade, a collection of incredible VR art, installations, and narratives. He’s made way for a world of virtual visually immersive art and experiences and created a space for artists to showcase this ever-evolving art form. In this episode, we’ll hear how Loren curated one of the greatest VR experiences in the world. Grey Interviewer: Dan Bennett, Worldwide Chief Innovation Officer"
+      },
+      {
+        "number": 16,
+        "title": "What made Diamond Dallas Page create the DDP Yoga program?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/What-made-Diamond-Dallas-Page-create-the-DDP-Yoga-program-e390huo",
+        "descriptionPlain": "Diamond Dallas Page aka DDP began his legendary wrestling career at age 35. He was met with skepticism upon entering the wrestling world at his age but proved everyone wrong and triumphed within the sport. That is, until a spinal injury brought his career to a screeching halt. But just like he did before, he didn’t let this stop him. What began as an attempt to heal turned into the creation a one-of-a-kind yoga work out for people of all levels of fitness experience. In our season 2 premiere we’ll hear how DDP turned lemons to lemonade and created one of the most effective fitness plans today. Grey Interviewer, John Patroulis, Worldwide Chief Creative Officer"
+      },
+      {
+        "number": 15,
+        "title": "Announcing New Episodes!",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Announcing-New-Episodes-e390hso",
+        "descriptionPlain": "Announcing new episodes of Grey Matter launching on Tuesday January 28th 2020 and will release every other Tuesday."
+      },
+      {
+        "number": 14,
+        "title": "Bonus: Matt Rivitz and the future of Sleeping Giants.",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Bonus-Matt-Rivitz-and-the-future-of-Sleeping-Giants-e390hta",
+        "descriptionPlain": "In Grey Matter’s first-ever bonus episode, our conversation with Sleeping Giants co-founder, Matt Rivitz, continues. The discussion ranges from free speech, to technology’s unintended consequences for media companies, to updating the terms of service for advertisers to meet their needs. Listen to learn more about Matt Rivitz and his journey in co-creating Sleeping Giants. Grey Interviewer: Worldwide Chief Creative Officer, John Patroulis"
+      },
+      {
+        "number": 13,
+        "title": "Grey Matter: A Podcast About Ideas TRAILER",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/Grey-Matter-A-Podcast-About-Ideas-TRAILER-e390hsv",
+        "descriptionPlain": "Season 1 of Grey Matter: A Podcast About Ideas is live, look out for Season 2 coming Winter 2020"
+      },
+      {
+        "number": 12,
+        "title": "How Did Matt Rivitz Create Sleeping Giants?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Matt-Rivitz-Create-Sleeping-Giants-e390hua",
+        "descriptionPlain": "Matt Rivitz is the co-founder of Sleeping Giants, a social media activism organization that combats racism, sexism, and all hate speech in advertising and media. In our season one finale, we’ll hear how Matt has harnessed the power of creativity to make real-world change. Listen to learn more about Matt Rivitz and his journey in co-creating Sleeping Giants. Grey Interviewer: Worldwide Chief Creative Officer, John Patroulis"
+      },
+      {
+        "number": 11,
+        "title": "How Did Mary Pryor Think of a Minority-Driven Cannabis Movement?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Mary-Pryor-Think-of-a-Minority-Driven-Cannabis-Movement-e390hte",
+        "descriptionPlain": "For Mary Pryor, a personal health focus drove an idea that’s become a national discussion. Amid the legitimization and growth of the cannabis industry, and all the positive potential for financial and medical health that comes with it, the co-founder of Cannaclusive shares her concept about how to elevate the discussion of why diversity is essential to the future of the business. Grey interviewer: Graham Nolan"
+      },
+      {
+        "number": 10,
+        "title": "How Did Charlie Engle Think of Water.org?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Charlie-Engle-Think-of-Water-org-e390htm",
+        "descriptionPlain": "Some of the world’s best ideas come from physical activities: as you hone the machine that is your body, your mind is freed to make new connections. So it makes sense that during his run across the entirety of the Sahara Desert, Charlie Engle’s transcendent thoughts and global exploration led to the idea of water.org. Hear about his extraordinary trip, and the idea for a movement born of his journey. Grey interviewer: Worldwide Chief Innovation Officer Dan Bennett"
+      },
+      {
+        "number": 9,
+        "title": "How Did Morgan Givens Think of the Flyest Fables Podcast?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Morgan-Givens-Think-of-the-Flyest-Fables-Podcast-e390htr",
+        "descriptionPlain": "Morgan Givens is someone who truly understands the transformative power of storytelling. Through the fiction podcast Flyest Fables, Morgan tells \"hopepunk\" stories with rich imagery. These audio adventures are tailored to children but enjoyed by just about everyone. Listen to learn more about Morgan and the inspiration behind building Flyest Fables. Grey Interviewer: Joey Scarillo **Program note: To celebrate International Podcast Day 2019 we are releasing this conversation a day early, on Monday Sept 30, we will return to Tuesday releases next week.** ztnqIccU0rqdgyPPOx1p"
+      },
+      {
+        "number": 8,
+        "title": "How Did Aaron Kinnari Invent the Meal Bar to Replace Coffee?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Aaron-Kinnari-Invent-the-Meal-Bar-to-Replace-Coffee-e390htu",
+        "descriptionPlain": "Faced with a daily routine of costly meal bars plus coffee, Aaron Kinnari – founder of FLT Bars – thought to combine them both into one clean energy recipe for improved health. We discuss how a simple idea, a willingness to expand skills, and the need to fuel change led to Aaron’s delicious, vegan entrepreneurial venture. Grey interviewer: Global Strategy Director Holly Williams"
+      },
+      {
+        "number": 7,
+        "title": "How Did Tiffany R. Warren Think of a Forum for Diversity in Advertising?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Tiffany-R--Warren-Think-of-a-Forum-for-Diversity-in-Advertising-e390htf",
+        "descriptionPlain": "Tiffany R. Warren had a moment of emotional epiphany that motivated her to unite an industry around diversity through ADCOLOR – which challenges creative industries to connect in stronger, more honest ways to create meaningful progress. Find out here how the emotion led to the idea, which led to seeking out support, which led to meaningful change. Grey interviewer: Strategy Director Karol Chang"
+      },
+      {
+        "number": 6,
+        "title": "How Did Patrick Moberg Think of the Mobile Game Dots?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Patrick-Moberg-Think-of-the-Mobile-Game-Dots-e390htn",
+        "descriptionPlain": "The idea behind the hit mobile game Dots might appear to be simple fun, but the concept that led to the phenomenon was rooted in artistic ambitions. Here, Grey talks to game creator Patrick Moberg about the aesthetic inspiration and the innovation environment that took the idea from a visual notion to an expanding game ecosystem. Grey interviewer: SVP, Director/Social Media Kenny Gold"
+      },
+      {
+        "number": 5,
+        "title": "How Did Charlie Melcher Create a Community to Reinvent Storytelling?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Charlie-Melcher-Create-a-Community-to-Reinvent-Storytelling-e390hu7",
+        "descriptionPlain": "Given the changing role of published stories in our modern world, Charlie Melcher had a great idea: what if a new community could elevate the way we tell stories, across any medium? Here, we talk to the Future of Storytelling founder about how his idea embraced collaboration, tech and innovation to create a new chapter for an established industry. Grey interviewer: Global Strategy Director Holly Williams"
+      },
+      {
+        "number": 4,
+        "title": "How Did Michelle Poler Think of 100 Days Without Fear?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Michelle-Poler-Think-of-100-Days-Without-Fear-e390htj",
+        "descriptionPlain": "The idea was: defy 100 fears in 100 days. The result was inspiration for a lot of people who didn’t realize how fear was a barrier to their happiness. How did this idea go from scary whim to a full movement? Michelle Poler – Keynote Speaker, Fear Facer and founder of Hello Fears – shares the genesis of her triumphant, life-changing concept. Grey interviewer: Strategy Director Karol Chang"
+      },
+      {
+        "number": 3,
+        "title": "How Did Toby Daniels Create Social Media Week?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Toby-Daniels-Create-Social-Media-Week-e390htq",
+        "descriptionPlain": "Was the idea for the world’s premiere social media community and discussion forum conceived… at Burning Man? Toby Daniels – co-founder and CEO of Crowdcentric Media and Executive Director and Founder of Social Media Week – talks about how he thought up and then developed the idea for the industry’s foremost social media insights platform. Grey interviewer: Worldwide Chief Innovation Officer Dan Bennett"
+      },
+      {
+        "number": 2,
+        "title": "How Did Jess Davis Think of a Way to Help People Unplug?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Did-Jess-Davis-Think-of-a-Way-to-Help-People-Unplug-e390hst",
+        "descriptionPlain": "In a world that is so wired, how does someone disconnect long enough to think up a platform for a more unplugged, conscious society? For Jess Davis, the founder of Folk Rebellion, the idea sparked during a vacation – and grew into a movement where she promotes slower-living and the more mindful use of technology (which we could all use these days). Grey interviewer: Worldwide Chief Innovation Officer Dan Bennett"
+      },
+      {
+        "number": 1,
+        "title": "How Does Cecily Strong Think of Her Funniest Ideas?",
+        "link": "https://podcasters.spotify.com/pod/show/grey913/episodes/How-Does-Cecily-Strong-Think-of-Her-Funniest-Ideas-e390htc",
+        "descriptionPlain": "Week in and week out, actor and comedian Cecily Strong (SNL, Ghostbusters, the 2015 White House Correspondents’ Assn. dinner) thinks of hilarious ideas for characters and scenes… but how? We hear from Cecily about how the world and people around her inspire her writing and characters, and how the simplest, most obvious ideas can be the best ones when well executed. Interviewed by Grey Worldwide Chief Creative Officer John Patroulis"
+      }
+    ]
+  },
+  "legalOg": null
+}
